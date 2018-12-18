@@ -1,0 +1,339 @@
+/* RESET 2 */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    font-weight: 400;
+}
+
+body {
+    line-height: 1.1;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;   
+}
+
+nav ul {
+    list-style: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content:''; content:none;
+
+}
+/*  END RESET */
+
+
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "fbillede"
+        "ftekst"
+        "webudvikling"
+        "kommunikation"
+        "design"
+        "onlinemarkedsforing"
+        "designthinking"
+        "refleksion"
+}
+
+body{
+      background-color: #a0a0a0;
+}
+
+#fbillede{
+    grid-area: fbillede;
+    max-width: 100%;
+    height: auto;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    margin-bottom: -3px;
+    !important; 
+    
+}
+
+.allebilleder{
+    width: 100%;
+    height: auto;
+    justify-self: center;
+    max-width: 300px;
+    
+}        
+
+#forsidetekst{
+    display: grid;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: #fafafa;
+    grid-area: ftekst;
+    grid-template-areas: 
+        "ftekst"
+}
+
+#forsidetekst .tekst{
+    padding: 0.5em;
+}
+
+
+/*Webudvikling box start*/
+#webudvikling{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: webudvikling;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "webtekst webbillede"        
+}
+
+#webtekst{
+    grid-area: webtekst;
+    background-color:#fafafa;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+#webbillede{
+    grid-area: webbillede;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px; /*Spørg Niels*/
+
+}
+/*Webudvikling box slut*/
+
+#kommunikation{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: kommunikation;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "kombillede komtekst"
+}
+
+#komtekst{
+    grid-area: komtekst;
+    background-color: #fafafa;
+}
+
+#kombillede{
+    grid-area: kombillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#design{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: design;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "designtekst designbillede"
+}
+
+#designtekst{
+    grid-area: designtekst;
+    background-color: #fafafa;
+}
+
+#designbillede{
+    grid-area: designbillede;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#onlinemarkedsforing{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: onlinemarkedsforing;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "ombillede omtekst"
+} 
+
+#omtekst{
+    grid-area: omtekst;
+    background-color: #fafafa;
+}
+
+#ombillede{
+    grid-area:ombillede;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#designthinking{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: designthinking;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "dttekst dtbillede"
+}
+
+#dttekst{
+    grid-area: dttekst;
+    background-color: #fafafa;
+}
+
+#dtbillede{
+    grid-area: dtbillede;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#refleksion{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: refleksion;
+    
+    display: grid;
+    grid-auto-columns: 1fr 1fr;
+    grid-template-areas: 
+        "refleksionbillede refleksiontekst"
+}
+
+#refleksiontekst{
+    grid-area: refleksiontekst;
+    background-color: #fafafa;
+}
+
+#refleksionbillede{
+    grid-area: refleksionbillede;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+h1, h2{
+    font-family: 'Oswald', sans-serif;
+    padding: 0.5em;
+    font-size: 20px
+    
+}
+
+p{
+    font-family:'Halant', serif;
+    font-weight: normal;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+
+footer { 
+    background-color: black;
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 0.5em;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    margin-top: 10px;
+}
+
+
+a:link {
+  text-decoration:none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+/*Tablet layout*/
+
+
+@media screen and (min-width: 600px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;    
+    grid-template-areas: 
+        "fbillede ftekst"
+        "webudvikling kommunikation"
+        "design onlinemarkedsforing"
+        "designthinking refleksion"
+}
+
+    #fbillede{
+        height: 100%;
+    }
+    
+}
+
+/*Desktop*/
+
+@media screen and (min-width: 1190px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+        "fbillede ftekst ftekst"
+        "webudvikling kommunikation design"
+        "onlinemarkedsforing designthinking refleksion"
+}
+
+#forsidetekst .tekst{
+    padding: 0.em;
+}    
+   
+}
+
+
+
+
