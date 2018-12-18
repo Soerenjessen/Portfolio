@@ -1,0 +1,315 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "tml"
+        "historie"
+        "webserver"
+        "css"
+        "planning"
+        "workshop"
+        "grids"
+        "version"
+        "ia"
+        "onepage"
+        
+        
+        
+}
+
+#tml{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: tml;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "tmlbillede tmltekst"        
+}
+
+#tmltekst{
+    grid-area: tmltekst;
+    background-color:#fafafa;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+#tmlbillede{
+    grid-area: tmlbillede;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px; /*Spørg Niels*/
+
+}
+
+#historie{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: historie;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "historietekst historiebillede"
+}
+
+#historietekst{
+    grid-area: historietekst;
+    background-color: #fafafa;
+}
+
+#historiebillede{
+    grid-area: historiebillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+
+#webserver{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: webserver;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "serverbillede servertekst"
+}
+
+#servertekst{
+    grid-area: servertekst;
+    background-color: #fafafa;
+}
+
+#serverbillede{
+    grid-area: serverbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#css{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: css;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "csstekst cssbillede"
+}
+
+#csstekst{
+    grid-area: csstekst;
+    background-color: #fafafa;
+}
+
+#cssbillede{
+    grid-area: cssbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#planning{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: planning;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "planbillede plantekst"
+}
+
+#plantekst{
+    grid-area: plantekst;
+    background-color: #fafafa;
+}
+
+#planbillede{
+    grid-area: planbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#workshop{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: workshop;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "worktekst workbillede"
+}
+
+#worktekst{
+    grid-area: worktekst;
+    background-color: #fafafa;
+}
+
+#workbillede{
+    grid-area: workbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#grids{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: grids;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "gridbillede gridtekst"
+}
+
+#gridtekst{
+    grid-area: gridtekst;
+    background-color: #fafafa;
+}
+
+#gridbillede{
+    grid-area: gridbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#version{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: version;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "versiontekst versionbillede"
+}
+
+#versiontekst{
+    grid-area: versiontekst;
+    background-color: #fafafa;
+}
+
+#versionbillede{
+    grid-area: versionbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#ia{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: ia;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "iabillede iatekst"
+}
+
+#iatekst{
+    grid-area: iatekst;
+    background-color: #fafafa;
+}
+
+#iabillede{
+    grid-area: iabillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#onepage{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: onepage;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "onetekst onebillede"
+}
+
+#onetekst{
+    grid-area: onetekst;
+    background-color: #fafafa;
+}
+
+#onebillede{
+    grid-area: onebillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+
+@media screen and (min-width: 600px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "tml historie"
+        "webserver css"
+        "planning workshop"
+        "grids version"
+        "ia onepage"         
+        
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+        "tml historie webserver"
+        "css planning workshop"
+        "grids version ia"
+        "onepage . ."  
+}
+
