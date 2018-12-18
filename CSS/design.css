@@ -1,0 +1,179 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "illustrator"
+        "ps"
+        "fotografering"
+        "gestalt"
+        "farve"
+           
+}
+
+#illustrator{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: illustrator;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "itekst ibillede"        
+}
+
+#itekst{
+    grid-area: itekst;
+    background-color:#fafafa;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+#ibillede{
+    grid-area: ibillede;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px; /*Spørg Niels*/
+
+}
+
+#ps{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: ps;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "psbillede pstekst"
+}
+
+#pstekst{
+    grid-area: pstekst;
+    background-color: #fafafa;
+}
+
+#psbillede{
+    grid-area: psbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+
+#fotografering{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: fotografering;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "fototekst fotobillede"
+}
+
+#fototekst{
+    grid-area: fototekst;
+    background-color: #fafafa;
+}
+
+#fotobillede{
+    grid-area: fotobillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#gestalt{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: gestalt;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "gestaltbillede gestalttekst"
+}
+
+#gestalttekst{
+    grid-area: gestalttekst;
+    background-color: #fafafa;
+}
+
+#gestaltbillede{
+    grid-area: gestaltbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#farve{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: farve;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "farvetekst farvebillede"
+}
+
+#farvetekst{
+    grid-area: farvetekst;
+    background-color: #fafafa;
+}
+
+#farvebillede{
+    grid-area: farvebillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+
+@media screen and (min-width: 600px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "illustrator ps"
+        "fotografering gestalt"
+        "farve ."
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+        "illustrator ps fotografering"
+        "gestalt farve ."
+}
+
+}
