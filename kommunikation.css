@@ -1,0 +1,180 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "pmodel"
+        "pteknik"
+        "tproduktion"
+        "bruger"
+        "bmc"
+           
+}
+
+#pmodel{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: pmodel;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "pmtekst pmbillede"        
+}
+
+#pmtekst{
+    grid-area: pmtekst;
+    background-color:#fafafa;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+#pmbillede{
+    grid-area: pmbillede;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px; /*Spørg Niels*/
+
+}
+
+#pteknik{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: pteknik;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "ptbillede ptekniktekst"
+}
+
+#ptekniktekst{
+    grid-area: ptekniktekst;
+    background-color: #fafafa;
+}
+
+#ptbillede{
+    grid-area: ptbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+
+#tproduktion{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: tproduktion;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "tproduktiontekst tproduktionbillede"
+}
+
+#tproduktiontekst{
+    grid-area: tproduktiontekst;
+    background-color: #fafafa;
+}
+
+#tproduktionbillede{
+    grid-area: tproduktionbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#bruger{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: bruger;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "brugerbillede brugertekst"
+}
+
+#brugertekst{
+    grid-area: brugertekst;
+    background-color: #fafafa;
+}
+
+#brugerbillede{
+    grid-area: brugerbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+#bmc{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: bmc;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "bmctekst bmcbillede"
+}
+
+#bmctekst{
+    grid-area: bmctekst;
+    background-color: #fafafa;
+}
+
+#bmcbillede{
+    grid-area: bmcbillede;  
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -1.5px;
+}
+
+
+@media screen and (min-width: 600px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "pmodel pteknik"
+        "tproduktion bruger"
+        "bmc ."
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+        "pmodel pteknik tproduktion"
+        "bruger bmc ." 
+        ". . ."
+        ". . ."
+}
+
