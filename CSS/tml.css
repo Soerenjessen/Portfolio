@@ -1,0 +1,99 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "generelt"
+        "elementer"
+        "semantik"
+        "attributter"
+        "hjemmeside"
+        
+        
+}
+
+#generelt{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: generelt;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/
+    display: grid;    
+}
+
+
+#elementer{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    display: grid;    
+    grid-area: elementer;
+}
+
+#semantik{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    display: grid;    
+    grid-area: semantik;
+}
+
+#attributter{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    display: grid;    
+    grid-area: attributter;
+}
+
+#hjemmeside{
+    grid-area: hjemmeside;
+    max-width: 100%;
+    height: auto;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    margin-bottom: -3px;
+    !important;
+}
+
+
+
+@media screen and (min-width: 600px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "generelt elementer"
+        "semantik attributter"
+        "hjemmeside ."
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+        "generelt elementer semantik"
+        "attributter hjemmeside ."  
+}
+
