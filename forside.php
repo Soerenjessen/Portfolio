@@ -14,11 +14,11 @@
         
         
         <div id="Forsidebillede">
-            <img id="fbillede" class="allebilleder" src="Billeder/soren500px.jpg">
+            <img id="fbillede" class="allebilleder" src="Billeder/soren400px.jpg">
         </div>
 
         <div id="forsidetekst"> 
-            <h1> Læringsportfolio ved Søren Roland Jessen</h1> 
+            <h1> Læringsportfolio ved Søren Roland Jessen.</h1> 
             <p class="tekst"> Mit navn er Søren, og jeg er studerende på Erhvervsakedemi Dania i Skive, hvor jeg er ved at uddanne mig til multimediedesigner. Dette er mit eksamensprojekt for 1. semester. </p> 
             
            <p class="tekst"> Her på siden vil jeg beskrive de forskellige fag Webudvikling, Design, Kommunikation, Online Marketing samt de emner og projekter jeg har arbejdet med i løbet af året.  Overordnet set kan du læse omkring min læring og erfaringer fra 1. Semester på multiemediedesign. </p> 
@@ -33,17 +33,17 @@
                 <p> Her kan du læse mere omrking HTML, CSS, CSS Grid, IA, Git, Github osv.</p>    
             </div>
                 <div id="webbillede">    
-                    <img id="webbillede" class="allebilleder" src="Billeder/webudvikling300px.jpg"> 
+                    <img id="webbillede" class="allebilleder" src="Billeder/webudvikling400px.jpg"> 
                 </div>
         </div></a><!--webudvikling box slut-->
         
         <a href="kommunikation.php"><div id="kommunikation"> <!--kommunikations box start-->
             <div id="komtekst">
                 <h2> Kommunikation</h2>
-                <p> læs mere om Brugertest, Tekstproduktion, Teknikker til præsentation, BMC osv.</p>
+                <p> Læs mere om Brugertest, Tekstproduktion, Teknikker til præsentation, BMC osv.</p>
             </div>
                 <div id="kombillede">
-                    <img id="kombillede" class="allebilleder" src="Billeder/kommunikation300px.jpg">
+                    <img id="kombillede" class="allebilleder" src="Billeder/kommunikation400px.jpg">
                 </div>
         </div> </a><!--kommunikations box slut-->
     
@@ -53,7 +53,7 @@
                 <p> Vi arbejdet med Gestaltlove, Illustrator, Vectorgrafik, Photoshop, layermasks osv. </p>
             </div>
                 <div id="designbillede">
-                    <img id="designbillede" class="allebilleder" src="Billeder/design300px.jpg">
+                    <img id="designbillede" class="allebilleder" src="Billeder/design400px.jpg">
                 </div>
         </div> </a> <!--design box slut-->
         
@@ -63,17 +63,17 @@
                 <p>Guldkorn fra Carsten Guldborg omkring SEO, Facebook, Instagram, konvertering osv.</p>
             </div>
                 <div id="ombillede">
-                    <img id="ombillede" class="allebilleder" src="Billeder/online300px.jpg">
+                    <img id="ombillede" class="allebilleder" src="Billeder/online400px.jpg">
                 </div>    
         </div> </a><!--om box slut-->
     
-        <a href="dthinking.php"><div id="designthinking"> <!--desing thinking box start-->
+        <a href="designthinking.php"><div id="designthinking"> <!--desing thinking box start-->
             <div id="dttekst">   
                 <h2> Design Thinking</h2>
                 <p> SmartPark var et projekt vi udviklede i forbindelse med Design Thinking projektet.</p>
             </div>
                 <div id="dtbillede">
-                    <img id="dtbillede" class="allebilleder" src="Billeder/designthinking300px.jpg">
+                    <img id="dtbillede" class="allebilleder" src="Billeder/designthinking400px.jpg">
                 </div>    
         </div> </a><!--design thinking box slut-->
         
@@ -83,9 +83,11 @@
                 <p> Vil du vide mere om mine tanker og overvejelser omkring 1. semeter og Portfolio</p>
             </div>
                 <div id="refleksionbillede">
-                    <img id="refleksionbillede" class="allebilleder" src="Billeder/refleksion300px.jpg">
+                    <img id="refleksionbillede" class="allebilleder" src="Billeder/refleksion400px.jpg">
                 </div>    
         </div> </a> <!--refleksion box slut-->
+            
+        <div id="felt"> &nbsp;</div> <!--holder footer nede på siden-->   
         
         </div> <!--pagewrap slut-->
         
