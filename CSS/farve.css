@@ -1,0 +1,255 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "indledningfarve"
+        "typografi"
+        "typeface"
+        "rettigheder"
+        "farvelare"
+        "farvehjulet"
+        "farverum"
+        "kulor"
+        "farvesammen"
+        "tomfelt23"
+    
+        
+}
+
+
+#felt23{
+    grid-area: tomfelt23;
+    height: 33px;
+}
+
+#indledningfarve{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: indledningfarve;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/   
+}
+
+#typografi{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: typografi;
+}
+
+#typeface{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: typeface;
+}
+
+#rettigheder{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: rettigheder;
+}
+
+#typefacecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#typebillede{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#farvelare{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: farvelare;
+}
+
+#farvehjulet{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: farvehjulet;
+}
+
+#farvehjulcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#farvehjul{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+
+#farverum{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: farverum;
+}
+
+#cmykcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#cmyk{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#rgbcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#rgb{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+#kulor{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: kulor;
+}
+
+#farvepalettecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#farvepalette{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+#farvesammen{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: farvesammen;
+}
+
+#farvesamcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#farvesam{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#stemningercontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#stemninger{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#ghostondcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#ghostond{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "indledningfarve typografi"
+        "typeface rettigheder"
+        "farvesammen farvehjulet"
+        "farvelare kulor"
+        "farverum ."
+        "tomfelt23 ."        
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+       "indledningfarve typografi typeface"
+       "rettigheder farvelare kulor"
+       "farverum farvehjulet farvesammen"
+       "tomfelt23 . ."
+}
+
+}
