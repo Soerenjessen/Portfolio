@@ -1,0 +1,384 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "gestaltlov"
+        "perception"
+        "proximity"
+        "continuity"
+        "simalarity"
+        "simplicity"
+        "whitespace"
+        "rules"
+        "figur"
+        "common"
+        "gridz"
+        "golden"
+        "closure"
+        "symmetry"
+        "tomfelt22"
+    
+        
+}
+
+
+#felt22{
+    grid-area: tomfelt22;
+    height: 33px;
+}
+
+#gestaltlov{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: gestaltlov;
+}
+
+#gestalt1container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#gestalt1{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#perception{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: perception;
+}
+
+#dalmatinercontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#dalmatiner{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#proximity{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: proximity;
+}
+
+#proximity1container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#proximity1{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+
+#continuity{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: continuity;
+}
+
+#continuitycontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#kontinuitet{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#simalarity{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: simalarity;
+}
+
+#lighedcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#lighed{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#simplicity{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: simplicity;
+}
+
+#enkelthedcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#enkelthed{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#whitespace{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: whitespace;
+}
+
+#ipadcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#ipad{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#rules{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: rules;
+}
+
+#fyrcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#fyr{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#figur{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: figur;
+}
+
+#figurecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#figure{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#common{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: common;
+}
+
+#fiskestimecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#fiskestime{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#gridz{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: gridz;
+}
+
+#gittercontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#gitter{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#golden{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: golden;
+}
+
+#spiralcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#spiral{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#closure{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: closure;
+}
+
+#closecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#close{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#symmetry{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: symmetry;
+}
+
+#symmetriccontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#symmetric{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "gestaltlov perception"
+        "proximity continuity"
+        "simalarity simplicity"
+        "whitespace rules"
+        "figur common"
+        "gridz golden"
+        "closure symmetry"
+        "tomfelt22 ."
+        
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+       "gestaltlov perception proximity"
+       "continuity simalarity simplicity" 
+       "whitespace rules figur"
+       "common gridz golden"
+       "closure symmetry ."
+       "tomfelt22 . ."
+}
+
+}
