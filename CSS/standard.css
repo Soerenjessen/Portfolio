@@ -44,23 +44,35 @@ blockquote:before, blockquote:after, q:before, q:after {
         "onlinemarkedsforing"
         "designthinking"
         "refleksion"
+        "tomfelt"
 }
 
 body{
       background-color: #a0a0a0;
 }
 
-#fbillede{
-    grid-area: fbillede;
-    max-width: 100%;
-    height: auto;
+#felt{
+    grid-area: tomfelt;
+    height: 33px;
+}
+
+#Forsidebillede{
+    text-align: right;
+    background-color: #fafafa;
     border-width: 1px;
-    border-color: black;
+    border-color:  black;
     border-style: solid;
-    margin-bottom: -3px;
-    !important; 
+    padding: 0;
     
 }
+
+#fbillede{
+    grid-area: fbillede;
+    max-width: auto;
+    max-height: auto;
+    vertical-align: bottom;
+}
+
 
 .allebilleder{
     width: 100%;
@@ -71,7 +83,6 @@ body{
 }        
 
 #forsidetekst{
-    display: grid;
     border-width: 1px;
     border-color: black;
     border-style: solid;
@@ -247,7 +258,7 @@ body{
 h1, h2{
     font-family: 'Oswald', sans-serif;
     padding: 0.5em;
-    font-size: 20px
+    font-size: 20px;
     
 }
 
@@ -269,6 +280,22 @@ footer {
     font-family: 'Oswald', sans-serif;
     color: white;
     margin-top: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+blockquote{
+    background-color: #333333;
+    font-family: 'Oswald', sans-serif;
+    font-weight: solid;
+    font-size: 1em;
+    padding: 0.8em;
+    margin-top: -3px;
+    margin-bottom: -10px;
+    color: white;
+    text-align: center;
 }
 
 
@@ -289,7 +316,7 @@ a:hover {
 /*Tablet layout*/
 
 
-@media screen and (min-width: 600px){
+@media screen and (min-width: 768px){
     
     #pagewrap {
     width: 95%;
@@ -303,6 +330,7 @@ a:hover {
         "webudvikling kommunikation"
         "design onlinemarkedsforing"
         "designthinking refleksion"
+        "tomfelt ."
 }
 
     #fbillede{
@@ -326,6 +354,7 @@ a:hover {
         "fbillede ftekst ftekst"
         "webudvikling kommunikation design"
         "onlinemarkedsforing designthinking refleksion"
+        "tomfelt . ."
 }
 
 #forsidetekst .tekst{
