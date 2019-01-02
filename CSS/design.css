@@ -10,7 +10,13 @@
         "fotografering"
         "gestalt"
         "farve"
+        "tomfelt12"
            
+}
+
+#felt12{
+    grid-area: tomfelt12;
+    height: 33px;
 }
 
 #illustrator{
@@ -146,7 +152,7 @@
 }
 
 
-@media screen and (min-width: 600px){
+@media screen and (min-width: 768px){
     
     #pagewrap {
     width: 95%;
@@ -159,6 +165,7 @@
         "illustrator ps"
         "fotografering gestalt"
         "farve ."
+        "tomfelt12 ."
 }   
     
 }
@@ -174,6 +181,7 @@
     grid-template-areas: 
         "illustrator ps fotografering"
         "gestalt farve ."
+        "tomfelt12 . ."
 }
 
 }
