@@ -1,0 +1,175 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "videnskabsteori"
+        "positivisme"
+        "hermeneutik"
+        "overvejelser"
+        "kvalitativ"
+        "kvantitativ"
+        "btest"
+        "gangstertest"
+        "tomfelt16"
+    
+        
+}
+
+
+#felt16{
+    grid-area: tomfelt16;
+    height: 33px;
+}
+
+#videnskabsteori{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: videnskabsteori;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/   
+}
+
+#kjolecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#kjole{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+#positivisme{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: positivisme;
+}
+
+#weightcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#weight{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#hermeneutik{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;   
+    grid-area: hermeneutik;
+}
+
+#overvejelser{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: overvejelser;
+}
+
+#kvalitativ{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: kvalitativ;
+}
+
+#kvantitativ{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: kvantitativ;
+}
+
+#btest{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: btest;
+}
+
+#gangstertest{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: gangstertest;
+}
+
+#kortsort2container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#kortsort2{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "videnskabsteori positivisme"
+        "hermeneutik overvejelser"
+        "kvalitativ kvantitativ"
+        "btest gangstertest"
+        "tomfelt16 ."
+        
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "videnskabsteori positivisme"
+        "hermeneutik overvejelser"
+        "kvalitativ kvantitativ"
+        "btest gangstertest"
+        "tomfelt16 ."
+}
+
+}
