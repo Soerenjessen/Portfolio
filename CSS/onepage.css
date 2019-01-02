@@ -1,0 +1,347 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "oneintro"
+        "forsidebiotexcontainer"
+        "researchfasen"
+        "researchfasen2"
+        "designfasen"
+        "produktionsfasen"
+        "tomfelt25"
+        
+}
+
+
+#felt25{
+    grid-area: tomfelt25;
+    height: 33px;
+}
+
+#oneintro{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: oneintro;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/   
+}
+
+#forsidebiotexcontainer{ 
+    width: 100;
+    grid-area: forsidebiotexcontainer;
+}
+
+#forsidebiotex{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#researchfasen{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: researchfasen;
+}
+
+#research1container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#research1{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#research2container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#research2{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+#research3container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#research3{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#research4container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#research4{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#research5container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#research5{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+#researchfasen2{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: researchfasen2;
+}
+
+#featurecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#featue{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+#farvekodecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#farvekode{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+#designfasen{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: designfasen;
+}
+
+#brainycontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#brainy{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#biotexbentcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#biotexbent{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#wireframecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#wireframe{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#moodboardcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#moodboard{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#produktionsfasen{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: produktionsfasen;
+}
+
+#biotekstcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#biotekst{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#billedtekstercontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#billedtekster{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#validatorcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#validator{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#githubcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#github{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#ctacontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#cta{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "oneintro forsidebiotexcontainer" 
+        "researchfasen researchfasen2"
+        "designfasen produktionsfasen"
+        "tomfelt25 ."
+        
+}       
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "oneintro forsidebiotexcontainer" 
+        "researchfasen researchfasen2"
+        "designfasen produktionsfasen"
+        "tomfelt25 ."
+       
+
+}
+
+}
