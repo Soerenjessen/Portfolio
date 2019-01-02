@@ -1,0 +1,64 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "kilder"
+        "tomfelt18"
+        
+        
+        
+}
+
+#felt18{
+    grid-area: tomfelt18;
+    height: 33px;
+}
+
+#kilder{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: kilder;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/   
+}
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr;
+    grid-template-areas: 
+         "kilder"
+        "tomfelt18"
+        
+        
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr;
+    grid-template-areas: 
+        "kilder"
+        "tomfelt18"
+        
+}
+
+}
+
