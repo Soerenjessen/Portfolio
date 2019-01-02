@@ -4,8 +4,9 @@
   <a href="kommunikation.php">Kommunikation</a>
   <a href="design.php">Design</a>
   <a href="online.php"> Online Marketing</a>
-  <a href="dthinking.php"> Design Thinking</a>
+  <a href="designthinking.php"> Design Thinking</a>
   <a href="refleksion.php">Refleksion</a>
+  <a href="kilder.php">Kilder</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
