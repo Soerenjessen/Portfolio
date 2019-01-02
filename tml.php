@@ -22,10 +22,27 @@
            <p class="tekst"> Når man arbejder med HTML-kodning foregår dette typisk i en Tekst-editor. En editor er en det program man bruger til at skrive HTML koder i. Dette kunne f.eks. være Notepad++, textedit, brackets osv. Fælles for disse editorer er at her arbejder man i ren tekst uden formatering.</p> 
                 
             <p class="tekst">Vigtigt! Når man starter med et nyt HTML projekt i eksempelvis Brackets, så er det vigtigt at gemme projektet, som en HTML fil. Hvis man ikke starter med det, vil den browser man benytter ikke være i stand til at læse din kode. Man er altså nødt til at præcisere at man koder i HTML.</p>  
+                    
+        <div id="bracketscontainer">
+
+            <img id="brackets" class="allebilleder" src="Billeder/brackets5.jpg">
             
+            <blockquote> Den første HTML-kode </blockquote>
+            
+        </div>
+             
+             
             <p class="tekst">HTML er et kodesprog som bruges til at skabe struktur på et website. Det kan være igennem overskrifter, brødtekster, tabeller, punktopstilling osv. Når vi taler om struktur, er det vigtigt at huske god kodeskik. Her er indrykning et meget essentielt punkt. Det skaber overblik for dig selv, men det gør det også muligt for andre at læse din kode.</p>
             
-            <p class="tekst">HTML er derfor ikke tiltænkt til opsætning og layout på et website, men bruges derimod til at definere indhold på et site. </p>
+            <p class="tekst">HTML er derfor ikke tiltænkt til opsætning og layout på et website, men bruges derimod til at definere indhold på et site. Nedenunder kan man se, hvor uinteressant den ovenstående HTML-kode ser ud i en browser</p>
+            
+        <div id="sidecontainer">
+
+            <img id="side" class="allebilleder" src="Billeder/side.jpg">
+            
+            <blockquote> Her ses den første HTML i en Browser</blockquote>
+            
+        </div>    
             
             <p class="tekst">Derimod beskriver CSS hvordan layout og design skal se ud på en side. HTML har det formål at skabe struktur og fortælle en browser hvad indholdet (data) er. HTML fortæller at dette er min forside, tabel, overskrift, afsnit, billede, link osv.  </p>
             
@@ -39,10 +56,28 @@
             <h1> Elementer og Tags </h1> 
             
             <p class="tekst"> En HTML kode består af en række elementer også kendt som tags. Hvert element har et åbnings-tag og et afslutningstag. Man bruger HTML elementer til at bestemme hvad der skal ske med den tekst eller data imellem tagsene.</p> 
+        
+        <div id="elementcontainer">
             
-            <p class="tekst"> Et eksempel på et element kunne være en overskrift h1 – h6. Overskifter bruges til at skabe overblik på et site, og inddeles efter betydning fra h1 (stor overskrift) til h6 (mindre overskrift) Dette er med til at angive vigtigheden af en overskrift, derfor er de hierarkisk inddelt. F.eks. overskriften &lt;Overskrift på min hjemmeside&gt; </p> 
+            <img id="element" class="allebilleder" src="Billeder/element.jpg">
+                        
+        </div>     
+            
+            <p class="tekst"> Et eksempel på et element kunne være en overskrift h1 – h6. Overskifter bruges til at skabe overblik på et site, og inddeles efter betydning fra h1 (stor overskrift) til h6 (mindre overskrift) Dette er med til at angive vigtigheden af en overskrift, derfor er de hierarkisk inddelt. F.eks. overskriften &lt;Generelt om HTML&gt; </p>
+            
+        <div id="overskriftcontainer">
+            
+            <img id="overskrift" class="allebilleder" src="Billeder/overskrift.jpg">
+                        
+        </div>    
                 
             <p class="tekst">Andre eksempler på elementer kunne være Body, HTML, paragraph, title, header, footer, article, nav, img osv. Mange af disse elementer er også med til at forbedre din søgemaskineoptimering (SEO) Da bl.a. Google læser disse elementer. F.eks. article elementet er vigtigt i forhold til SEO, da det ofte fortæller noget om hovedindholdet på sitet. Dette kan være med til at give dig et højt organisk søgeresultat på google. Det er vigtigt at være opmærksom på at google også læser de elementer, som ikke er synlige på siden, eksempelvis din title. Så i forhold til SEO kan det godt betale sig at gøre sig umage med de forskellige elementer. </p>  
+            
+         <div id="googlecontainer">
+            
+            <img id="google" class="allebilleder" src="Billeder/google.jpg">
+                        
+        </div>     
             
             <p class="tekst">Der findes mange forskellige elementer i HTML, et andet eksempel kunne være HTML elementet. Dette er et element der definerer at, hele dokumentet er HTML. Ligeledes har det et start tag &lt;html&gt; og sluttag &lt;/html&gt;. </p>
             
@@ -57,11 +92,29 @@
             
             <p class="tekst"> Tags som har semantisk betydning, er elementer som fortæller noget om indholdet, både i forhold til en søgemaskine, men også i forhold til mennesker. Fordelen ved at erstatte tags med semantiske tags er, at de fortæller noget om indholdet på et site, hvilket er hensigtsmæssigt i forhold til SEO, da f.eks. google læser alt tekst, som har betydning på din side. Dette vil være med til at forbedre dine søgeresultater. </p> 
             
+        <div id="seocontainer">
+            
+            <img id="seo" class="allebilleder" src="Billeder/seo.jpg">
+                        
+        </div>     
+            
            <p class="tekst"> Et eksempel på et semantisk tag kunne være ”article” – En artikel indeholder noget tekst som har betydning, og det kan samtidig læses af mennesker såvel som søgemaskiner. Dette kunne f.eks. være en blog eller nyhedsartikel.</p> 
                 
             <p class="tekst">Et andet eksempel på et semantisk tag kunne være en header (Sidehoved). Det er et element som kan læse af både mennesker og søgemaskiner. Dette fortæller noget om indholdet på siden, da en header typisk, er en overskrift for en article eller section.</p>  
+         
+        <div id="headercontainer">
+            
+            <img id="header" class="allebilleder" src="Billeder/header.jpg">
+                        
+        </div>        
             
             <p class="tekst">Et tredje eksempel på et semantisk tag er en footer. Som på mange måder minder om en header. Forskellen er, at en footer fungerer som en slags sidefod, men indeholder information som kan læses af mennesker og søgemaskiner, derfor har indholdet betydning. Det kunne f.eks. være kontaktoplysninger, adresse, copyright info osv.</p>
+            
+        <div id="footercontainer">
+            
+            <img id="footer" class="allebilleder" src="Billeder/footer.jpg">
+                        
+        </div>     
             
             <p class="tekst">Andre semantiske tags kunne være: &lt;nav&gt;, &lt;figure&gt;, &lt;section&gt;, &lt;aside&gt;. Fælles for disse er, at de alle sammen definerer noget omkring indholdet på siden. </p>
             
@@ -76,10 +129,29 @@
             
             <p class="tekst"> Vi kan give vores tags forskellige attributter, alt efter hvad for nogle egenskaber vi ønsker at tillægge vores elementer.  Attributter bruges til at give yderligere oplysninger om HTML-elementer.</p> 
             
-           <p class="tekst"> På et almindeligt website kunne det være relevant at indsætte et link. Ofte giver det høj troværdighed på søgemaskiner, at man har indgående og udgående links på et site.
-           I det tilfælde vil man benytte href attributten – Her vil man først starte med at lave et anchor tag &lt;a&gt; Herefter specificerer man linket via href attributten. F.eks. &lt;a href=”https://www.dr.dk”&gt; Link til Danmarks Radio &lt;a/&gt;</p> 
+            <p class="tekst"> På et almindeligt website kunne det være relevant at indsætte et link. Ofte giver det høj troværdighed på søgemaskiner, at man har indgående og udgående links på et site.
+            I det tilfælde vil man benytte href attributten – Her vil man først starte med at lave et anchor tag &lt;a&gt; Herefter specificerer man linket via href attributten. F.eks. &lt;a href=”https://www.dr.dk”&gt; Link til Danmarks Radio &lt;a/&gt;</p> 
+            
+            
+        <div id="linkcontainer">
+            
+            <img id="link" class="allebilleder" src="Billeder/link.jpg">
+                 
+            <blockquote> Eksempel på et link med Anchor-tag</blockquote>
+            
+        </div>   
                 
             <p class="tekst">Et andet eksempel på en relevant attribut er, hvis man ønsker at indsætte et billede fra en side eller mappe. Først starter man med et billede tag &lt;img&gt; - Herefter udpeges selve filen med en src attribut. Src attributten er med til at bestemme hvorfra dit billede skal hentes fra, det kan være fra en mappe eller en side. Eksemplet vil se sådan ud: &lt;img src=”img_billede.jpg”&gt; </p>  
+            
+            
+        <div id="link2container">
+            
+            <img id="link2" class="allebilleder" src="Billeder/link2.jpg">
+                 
+            <blockquote> Sådan ser ovenstående kode ud i en browser</blockquote>
+            
+        </div>     
+            
             
             <p class="tekst">Et tredje eksempel på en attribut kunne være alt-attributten, som angiver alternativ tekst. Der er flere fordele ved at have alternativ tekst til dine billeder. For det første er det smart i forhold til skærmlæsere, hvis f.eks. en blind person skal bruge din hjemmeside. Lad os sige, at vi har et billede af en hund, hvilket selvfølgelig vil være umuligt for en blind person at kunne se. Med alternativ tekst kan du beskrive, hvad der er vist på billedet, og derefter få en skærmoplæser til læse det højt for den blinde person. </p>
             
@@ -89,17 +161,14 @@
             
             <p class="tekst">Så ved at anvende alternativ tekst, slår man to fluer med et smæk. Man øger brugervenligheden, samtidig med at man forbedrer sine søgeresultater i forhold til søgemaskiner.</p>    
             
-            <div id="website">
-                <img id="hjemmeside" class="allebilleder" src="Billeder/hjemmeside.jpg">
-            </div>
             
             <p class="tekst">Et sidste eksempel på en attribut, der kunne være relevant at bruge, er attributten (height og width), som angiver højde og bredde på et billede. I dette tilfælde er elementet img(billedet) og attributterne er først src (billedkilden) og dernæst width og heigt.</p>    
             
-            <p class="tekst">Her et eksempel: &lt;img src=”img_hund.jpg” width=”300” height=”400”&gt;.</p>    
+            <p class="tekst">Her et eksempel: &lt;img src=”img_hund.jpg” width=”300” height=”400”&gt;.</p> 
             
-            
-        </div>  <!--Attributter slut-->
+        </div>  <!--Attributter slut-->            
         
+            <div id="felt2"> &nbsp;</div> <!--holder footer nede på siden-->     
         </div> <!--pagewrap slut-->
         
             <?php include "footer.inc" ?>    
