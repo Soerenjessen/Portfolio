@@ -1,0 +1,123 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "periode"
+        "eksperimenter"
+        "konstruktion"
+        "semantik"
+        "network"
+        "mobileweb"
+        "historien"
+        "tomfelt3"
+        
+}
+
+#felt3{
+    grid-area: tomfelt3;
+    height: 33px;
+}
+
+#periode{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: periode;
+}
+
+#eksperimenter{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: eksperimenter;
+}
+
+#konstruktion{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: konstruktion;
+}
+
+#semantik{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: semantik;
+}
+
+#network{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: network;
+}
+
+#mobileweb{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: mobileweb;
+}
+
+#historien{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: historien;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/  
+}
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr;
+    grid-template-areas: 
+        "periode"
+        "eksperimenter"
+        "konstruktion"
+        "semantik"
+        "network"
+        "mobileweb"
+        "historien"
+        "tomfelt3"
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "periode eksperimenter"
+        "konstruktion semantik"
+        "network mobileweb"
+        "historien ."
+        "tomfelt3 ."
+  
+}
+
+}
