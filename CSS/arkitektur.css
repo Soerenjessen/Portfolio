@@ -1,0 +1,169 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "iarkitektur"
+        "iaeksempel1"
+        "iaeksempel2"
+        "iaeksempel3"
+        "tomfelt10"
+}
+
+#felt10{
+    grid-area: tomfelt10;
+    height: 33px;
+}
+
+#iarkitektur{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: iarkitektur;   
+}
+
+
+#iaeksempel1{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: iaeksempel1;
+}
+
+#iaeksempel2{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;   
+    grid-area: iaeksempel2;
+}
+
+#iaeksempel3{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: iaeksempel3;
+}
+
+#kortcontainer1{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#kort1{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+
+}
+
+#kortcontainer2{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#kort2{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#kortcontainer3{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#kort3{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#legosortcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#legosort{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#legosort2container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#legosort2{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#legosort3container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#legosort3{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "iarkitektur iaeksempel1"
+        "iaeksempel2 iaeksempel3"
+        "tomfelt10 ."
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "iarkitektur iaeksempel1"
+        "iaeksempel3 iaeksempel2 ."
+        "tomfelt10 ."
+}
+
+}
