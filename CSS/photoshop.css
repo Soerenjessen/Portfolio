@@ -1,0 +1,158 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "photoshop"
+        "keyboard"
+        "artboards"
+        "selections"
+        "pen"
+        "tomfelt20"
+    
+        
+}
+
+
+#felt20{
+    grid-area: tomfelt20;
+    height: 33px;
+}
+
+#photoshop{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: photoshop;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/   
+}
+
+#keyboard{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: keyboard;
+}
+
+#shortcutcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#shortcuts{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#artboards{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: artboards;
+}
+
+#ghostcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#ghost{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#selections{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: selections;
+}
+
+#quickcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#quick{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+#pen{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: pen;
+}
+
+#pentoolcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#pentool{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "photoshop keyboard"
+        "artboards selections"
+        "pen ."
+        "tomfelt20 ."
+        
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+       "photoshop selections pen"
+       "keyboard artboards ." 
+       "tomfelt20 . ."
+}
+
+}
