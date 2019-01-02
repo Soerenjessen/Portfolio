@@ -1,0 +1,116 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "fotografering"
+        "lukketid"
+        "iso"
+        "lukkevidde"
+        "lys"
+        "tomfelt21"
+    
+        
+}
+
+
+#felt21{
+    grid-area: tomfelt21;
+    height: 33px;
+}
+
+#fotografering{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: fotografering;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/   
+}
+
+#fotograficontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#fotografi{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+#lukketid{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: lukketid;
+}
+
+#iso{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: iso;
+}
+
+#lukkevidde{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: lukkevidde;
+}
+
+#lys{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: lys;
+}
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "fotografering lukketid"
+        "iso lukkevidde"
+        "lys ."
+        "tomfelt21 ."
+        
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+       "fotografering lukketid iso"
+       "lukkevidde lys ." 
+       "tomfelt21 . ."
+}
+
+}
