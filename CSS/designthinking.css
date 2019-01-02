@@ -1,0 +1,345 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "dtindledning"
+        "empathize"
+        "define"
+        "ideate"
+        "prototype"
+        "tests"
+        "implementering"
+        "dtprojekt"
+        "dag1"
+        "dag2"
+        "dag3"
+        "dag4"
+        "dag5"
+        "dtrefleksion"
+        "tomfelt24"
+    
+        
+}
+
+
+#felt24{
+    grid-area: tomfelt24;
+    height: 33px;
+}
+
+#dtindledning{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: dtindledning;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/   
+}
+
+#empathize{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;    
+    grid-area: empathize;
+}
+
+#define{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;   
+    grid-area: define;
+}
+
+#ideate{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: ideate;
+}
+
+#prototype{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: prototype;
+}
+
+#tests{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: tests;
+}
+
+#implementering{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: implementering;
+}
+
+#dtprojekt{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: dtprojekt;
+}
+
+#dag1{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: dag1;
+}
+
+#brainstorm1container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#brainstorm1{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#brainstorm2container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#brainstorm2{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#dag2{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: dag2;
+}
+
+#aarhus1container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#aarhus1{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#aarhus2container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#aarhus2{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#aarhus3container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#aarhus3{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#dag3{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: dag3;
+}
+
+#ideate1container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#ideate1{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#ideate2container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#ideate2{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#ideate3container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#ideate3{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#dag4{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: dag4;
+}
+
+#prototype1container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#prototype1{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#prototype2container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#prototype2{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#prototype3container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#prototype3{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#dag5{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: dag5;
+}
+
+#dtrefleksion{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: dtrefleksion;
+}
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "dtindledning empathize"
+        "define ideate"
+        "prototype tests"
+        "implementering dtprojekt"
+        "dag1 dag2"
+        "dag3 dag4"
+        "dag5 dtrefleksion"
+        "tomfelt24 ."
+        
+}       
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "dtindledning empathize"
+        "define ideate"
+        "prototype tests"
+        "implementering dtprojekt"
+        "dag1 dag2"
+        "dag3 dag4"
+        "dag5 dtrefleksion"
+        "tomfelt24 ."
+}
+
+}
