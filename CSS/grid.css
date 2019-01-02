@@ -1,0 +1,122 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "genereltgrid"
+        "responsive"
+        "respons2container"
+        "respons3container"
+        "tomfelt8"
+}
+
+#felt8{
+    grid-area: tomfelt8;
+    height: 33px;
+}
+
+#genereltgrid{
+    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: genereltgrid;
+    
+    /*Herfra er den forælder til webtekst og webbillede*/  
+}
+
+
+#responsive{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: responsive;
+}
+
+#respons1container{ 
+    width: 100;
+    padding-bottom: 1em;
+
+}
+
+#respons1{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#respons2container{ 
+    width: 100;
+    padding-bottom: 1em;
+    grid-area: respons2container;
+
+}
+
+#respons2{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#respons3container{ 
+    width: 100;
+    padding-bottom: 1em;
+    grid-area: respons3container;
+
+}
+
+#respons3{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "genereltgrid responsive"
+        "respons2container respons3container"
+        "tomfelt8 ."
+        
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+        "genereltgrid responsive respons2container"  
+        "respons3container . ."
+        "tomfelt8 . ."
+}
+
+}
