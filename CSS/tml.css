@@ -9,9 +9,15 @@
         "elementer"
         "semantik"
         "attributter"
-        "hjemmeside"
+        "tomfelt2"
+    
         
-        
+}
+
+
+#felt2{
+    grid-area: tomfelt2;
+    height: 33px;
 }
 
 #generelt{
@@ -22,8 +28,7 @@
     border-style: solid;
     grid-area: generelt;
     
-    /*Herfra er den forælder til webtekst og webbillede*/
-    display: grid;    
+    /*Herfra er den forælder til webtekst og webbillede*/   
 }
 
 
@@ -31,8 +36,7 @@
     background-color: #fafafa;
     border-width: 1px;
     border-color: black;
-    border-style: solid;
-    display: grid;    
+    border-style: solid;    
     grid-area: elementer;
 }
 
@@ -40,8 +44,7 @@
     background-color: #fafafa;
     border-width: 1px;
     border-color: black;
-    border-style: solid;
-    display: grid;    
+    border-style: solid;   
     grid-area: semantik;
 }
 
@@ -49,25 +52,156 @@
     background-color: #fafafa;
     border-width: 1px;
     border-color: black;
-    border-style: solid;
-    display: grid;    
+    border-style: solid;  
     grid-area: attributter;
 }
 
-#hjemmeside{
-    grid-area: hjemmeside;
+
+#bracketscontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+
+}
+
+#brackets{
     max-width: 100%;
-    height: auto;
-    border-width: 1px;
     border-color: black;
     border-style: solid;
-    margin-bottom: -3px;
-    !important;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#sidecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+
+}
+
+#side{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#elementcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#element{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#overskriftcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#overskrift{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#googlecontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#google{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#seocontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#seo{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
 }
 
 
+#headercontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
 
-@media screen and (min-width: 600px){
+#header{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#footercontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#footer{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#linkcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#link{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+#link2container{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#link2{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+@media screen and (min-width: 768px){
     
     #pagewrap {
     width: 95%;
@@ -79,7 +213,8 @@
     grid-template-areas: 
         "generelt elementer"
         "semantik attributter"
-        "hjemmeside ."
+        "tomfelt2 ."
+        
 }   
     
 }
@@ -91,9 +226,11 @@
     margin-right: auto;
     display: grid;
     grid-gap: 10px;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-template-areas: 
-        "generelt elementer semantik"
-        "attributter hjemmeside ."  
+        "generelt elementer"
+        "semantik attributter"
+        "tomfelt2 ."
 }
 
+}
