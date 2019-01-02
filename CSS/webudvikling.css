@@ -15,9 +15,15 @@
         "version"
         "ia"
         "onepage"
+        "tomfelt1"
         
         
         
+}
+
+#felt1{
+    grid-area: tomfelt1;
+    height: 33px;
 }
 
 #tml{
@@ -277,8 +283,7 @@
     margin-bottom: -1.5px;
 }
 
-
-@media screen and (min-width: 600px){
+@media screen and (min-width: 768px){
     
     #pagewrap {
     width: 95%;
@@ -292,7 +297,8 @@
         "webserver css"
         "planning workshop"
         "grids version"
-        "ia onepage"         
+        "ia onepage"
+        "tomfelt1 ."
         
 }   
     
@@ -310,6 +316,7 @@
         "tml historie webserver"
         "css planning workshop"
         "grids version ia"
-        "onepage . ."  
+        "onepage . ."
+        "tomfelt1 . ."
 }
 
