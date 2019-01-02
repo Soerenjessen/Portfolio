@@ -1,0 +1,150 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "version"
+        "git"
+        "repository"
+        "branch"
+        "commit"
+        "pull"
+        "merge"
+        "tomfelt9"
+}
+
+#felt9{
+    grid-area: tomfelt9;
+    height: 33px;
+}
+
+#version{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: version;   
+}
+
+
+#git{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: git;
+}
+
+#githubbcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+
+}
+
+#githubb{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+#repository{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;   
+    grid-area: repository;
+}
+
+#reposcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+
+}
+
+#repos{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
+
+#branch{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;   
+    grid-area: branch;
+}
+
+#commit{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;   
+    grid-area: commit;
+}
+
+#pull{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;  
+    grid-area: pull;
+}
+
+#merge{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: merge;   
+}
+
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "version git"
+        "repository branch"
+        "commit pull"
+        "merge ."
+        "tomfelt9 ."
+        
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+        "version git repository"
+        "branch commit pull"
+        "merge . ."
+        "tomfelt9 . ."
+}
+
+}
