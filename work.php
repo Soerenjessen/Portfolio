@@ -19,7 +19,7 @@
             
             <p class="tekst"> I forbindelse med HTML og CSS Workshop skulle jeg arbejde med HTML-tabeller, og hvordan vi kan style dem i CSS. På det tidspunkt jeg var blevet stillet opgaven, havde jeg ingen kendsskab til CSS grid, som f.eks. denne her hjemmeside er bygget med. I dag vil jeg foretrække at bruge CSS-grids i stedet for HTML-tabeller. </p> 
             
-            <p class="tekst"> Jeg har valgt at tage udgangspunkt i rapporten jeg skrev i forbindelse med projektet. Du kan læse hele rapporten ved at klikke på billedet længere nede.</p>
+            <p class="tekst"> Jeg har valgt at tage udgangspunkt i rapporten jeg skrev i forbindelse med projektet. Du kan læse hele rapporten ved at klikke på billedet.</p>
 
         </div>  <!--Indledning slut-->  
             
@@ -39,7 +39,7 @@
             
             <p class="tekst">Til sidst skulle jeg aflevere et samlet dokument over mine notater og eksempler. Dette skulle bruges til et samlet PDF-opslagsværk, som vi skulle kunne bruge på holdet.  
                 
-            <p class="tekst"> Afslutningsvis skulle jeg forberede en fremlæggelse for klassen, og fortælle om hvad jeg havde lært og HTML-tabeller / Styling af dem. </p>
+            <p class="tekst"> Afslutningsvis skulle jeg forberede en fremlæggelse for klassen, og fortælle om, hvad jeg havde lært og HTML-tabeller / Styling af dem. </p>
 
         </div>  <!--Refleksion slut-->  
             
