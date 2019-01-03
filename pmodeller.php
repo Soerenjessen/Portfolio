@@ -17,9 +17,9 @@
         <div id="hvad"> <!--Hvad er kommunikation start-->
             <h1> Hvad er kommunikation?</h1> 
             
-            <p class="tekst"> Kommunikation er det sprog som binder de forskellige fag sammen. Vi kommunikerer i forskellige sammenhænge på multimediedesigneruddannelsen, uanset om vi laver webtekster til hjemmesider, koder i Brackets, designer logoer osv. Vi kommunikerer i alt hvad vi foretager os.</p> 
+            <p class="tekst"> Kommunikation er det sprog, som binder de forskellige fag sammen. Vi kommunikerer i forskellige sammenhænge på multimediedesigneruddannelsen, uanset om vi laver webtekster til hjemmesider, koder i Brackets, designer logoer osv. Vi kommunikerer i alt, hvad vi foretager os.</p> 
             
-           <p class="tekst"> Vi kan som mennesker og studerende ikke undgå at kommunikere, og vi gør det på mange forskellige måder f.eks. igennem vores tøjvalg, kropssprog, stemmeføring osv. Men vi kommunikerer også i høj grad, omkring de ting vi ikke siger, og ikke gør. Det er vigtigt at huske, at vi oftest kommunikerer igennem sprog mennesker i mellem, men vi skal være mindst ligeså bevidste om vores non-verbale kommunikation.</p> 
+           <p class="tekst"> Vi kan som mennesker og studerende ikke undgå at kommunikere, og vi gør det på mange forskellige måder f.eks. igennem vores tøjvalg, kropssprog, stemmeføring osv. Men vi kommunikerer også i høj grad, omkring de ting vi ikke siger, og ikke gør. Det er vigtigt at huske, at vi oftest kommunikerer igennem sprog - mennesker i mellem. Derudover skal vi være mindst ligeså bevidste om vores non-verbale kommunikation.</p> 
               
             <p class="tekst">Overordnet set har vi tre grene af kommunikation: 
             </p> 
@@ -29,7 +29,7 @@
             -	Skriftlig kommunikation: Den måde vi kommunikerer på skrift. 
             </p>  
             
-            <h2>Vi fokuserer på hvem kommunikerer vi til?</h2>
+            <h2>Vi fokuserer på, hvem kommunikerer vi til?</h2>
             
             <p class="tekst">Vi har en afsender, dernæst en modtager, og til sidst et budskab. I sidste ende er det vigtigt at have fokus på perception, hvilket er den måde vi forstår et budskab på, ud fra vores kultur, opdragelse og verdenssyn. 
             </p>  
@@ -41,15 +41,20 @@
             <h2> Kongruent og inkongruent</h2> 
             
             <p class="tekst"> Kongruent kommunikation handler om den sammenhæng imellem de forskellige typer af kommunikation. 
-            Et eksempel kunne være imellem vores verbale og nonverbale kommunikation. Det vi siger, er også det vi viser med vores kropssprog. Dette er med til at skabe en tryghed ved modtageren, da der er klarhed om hvad der menes.  Verbal ”Du spiller fedt guitar” non-verbal ”man vipper i takt med højre fod, og headbanger” – Der er sammenhæng imellem din udtalelse, og det dit kropssprog viser. 
+            Et eksempel kunne være imellem vores verbale og nonverbale kommunikation. Det vi siger, er også det vi viser med vores kropssprog. Dette er med til at skabe en tryghed ved modtageren, da der er klarhed om, hvad der menes.  Verbal ”Du spiller fedt guitar” non-verbal ”man vipper i takt med højre fod, og headbanger” – Der er sammenhæng mellem din udtalelse og dit kropssprog. 
             </p> 
             
-            <p class="tekst"> Inkongruent kommunikation er når der ikke er sammenhæng imellem de forskellige kommunikationstyper. Dette er med til at skabe en usikkerhed og utryghed for modtageren. 
-            Et eksempel kunne være at din verbale kommunikation er modsatrettet i forhold til din non-verbale kommunikation. 
+            <p class="tekst"> Inkongruent kommunikation er, når der ikke er sammenhæng imellem de forskellige kommunikationstyper. Dette er med til at skabe en usikkerhed og utryghed for modtageren. 
+            Et eksempel kunne være, at din verbale kommunikation er modsatrettet i forhold til din non-verbale kommunikation. 
             </p> 
             
-            <p class="tekst"> Ex: Verbal ”Du spiller godt guitar” Non-verbal ”Man holder sig for ørene, og skærer tænder”
-            Der er altså ikke sammenhæng imellem det du siger, og det du viser. </p> 
+            <p class="tekst"> Eksempel</p> 
+            
+            <p class="tekst"> Ex: Verbal ”Du spiller godt guitar”.</p> 
+            
+            <p class="tekst"> Non-verbal ”Man holder sig for ørene, og skærer tænder”.</p> 
+            
+            <p class="tekst"> Der er altså ikke sammenhæng imellem det du siger, og det du viser. </p> 
             
             
         </div>  <!--Kongruent slut-->
@@ -61,7 +66,7 @@
             Eller en chat, hvor begge er online samtidig.  
             </p> 
                 
-            <p class="tekst">-	Asynkron kommunikation betyder, at der er en tidsforskydning i forhold til kommunikationen. Det kunne f.eks. være et gammeldags Postkort, som typisk er flere dage undervejs. </p>  
+            <p class="tekst">-	Asynkron kommunikation betyder, at der er en tidsforskydning i forhold til kommunikationen. Det kunne f.eks. være et gammeldags postkort, som typisk er flere dage undervejs. </p>  
             
         </div>  <!--Synkron og Asynkron kommunikation slut-->
             
@@ -121,22 +126,22 @@
             
             <h2> Det humanistiske paradigme</h2>
             
-            <p class="tekst">Her er der fokus på modtageren, som ses som værende aktiv og medbestemmende. Der fokuseres primært på de humanistiske fagområder såsom sprog, kultur, kunst, psykologi, læring, organisation, antropologi, informationsteknologi osv. 
+            <p class="tekst">Her er der fokus på modtageren, der ses som værende aktiv og medbestemmende. Der fokuseres primært på de humanistiske fagområder såsom sprog, kultur, kunst, psykologi, læring, organisation, antropologi, informationsteknologi osv. 
             </p>
             
-            <p class="tekst">Det humanistiske paradigme bliver også kaldt interaktionsparadigmet, netop fordi der forekommer interaktion imellem modtager og afsender. Her er selve den menneskelige interaktion mere interessant for kommunikationen end budskabet i sig selv.
+            <p class="tekst">Det humanistiske paradigme bliver også kaldt interaktionsparadigmet, fordi der forekommer interaktion imellem modtager og afsender. Her er selve den menneskelige interaktion mere interessant for kommunikationen end budskabet i sig selv.
             </p>
             
-            <p class="tekst">De undersøgelser man foretager sig i det humanistiske paradigme, beror på kvalitative undersøgelser. Man fokuser på hvad modtageren forstår ved et givent budskab, og hvilken subjektiv oplevelse de har. 
+            <p class="tekst">De undersøgelser man foretager sig i det humanistiske paradigme, beror på kvalitative undersøgelser. Man fokuser på, hvad modtageren forstår ved et givent budskab, og hvilken subjektiv oplevelse de har. 
             </p>
             
-            <p class="tekst">Man anvender undersøgelsesmetoder, som sikrer en dybere forståelse for hvad brugeren oplever. Ud fra disse kvalitative undersøgelser anvender man en induktiv metode, da man generaliserer ud fra konkrete tilfælde. 
+            <p class="tekst">Man anvender undersøgelsesmetoder, som sikrer en dybere forståelse for, hvad brugeren oplever. Ud fra disse kvalitative undersøgelser anvender man en induktiv metode, da man generaliserer ud fra konkrete tilfælde. 
             </p>
             
             <p class="tekst">Man undersøger det unikke frem for det generelle. Hvorefter man udleder overordnet antagelser på bagrund af få, men dybe undersøgelser.  
             </p>
             
-            <p class="tekst">Her ser man bort fra, hvilken intentionen afsenderen har haft. Her er det modtagerens oplevelse af budskabet der er det væsentlige.
+            <p class="tekst">Her ser man bort fra, hvilken intentionen afsenderen har haft. Her er det modtagerens oplevelse af budskabet, der er det væsentlige.
             </p>
             
             <p class="tekst">Karaktertræk i det humanistiske paradigme:</p>  
@@ -159,7 +164,7 @@
             <h2> AIDA Modellen</h2> 
             
             <p class="tekst"> AIDA-modellen er et værktøj, som vi bruger til at forudsige effekten af en kommunikation. 
-            Når du har indsamlet kvantitative data, kan dette sætte ind i AIDA-modellen, og give et billede af hvordan man kan kommunikere i forhold til at skabe:  
+            Når du har indsamlet kvantitative data, kan dette sætte ind i AIDA-modellen, og give et billede af, hvordan man kan kommunikere i forhold til at skabe:  
             </p> 
             
             <p class="tekst"> Attention (Brand Awarness).  
