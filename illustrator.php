@@ -39,7 +39,7 @@
         <div id="logo"> <!--logo start-->
             <h2>Multimediedesigner Logo i Illustrator</h2> 
             
-                <p class="tekst"> Til at skabe dette logo har vi anvendt bl.a. Elipse-tool til at gøre cirklen rund, og guidelines til at placere elementer de rigtige steder i artboardet. Derudover har jeg bygget den i forskellige layers, dvs non-destruktivt. </p>
+                <p class="tekst"> Til at skabe dette logo har vi bl.a. anvendt Elipse-tool til at gøre cirklen rund og guidelines til at placere elementer de rigtige steder i artboardet. Derudover har jeg bygget den i forskellige layers, dvs. non-destruktivt. </p>
             
             <div id="logocontainer">
             
@@ -54,7 +54,7 @@
         <div id="logo2"> <!--logo2 start-->
             <h2>Captain America Logo</h2> 
             
-                <p class="tekst"> Den første dag vi arbejdede med illustrator skulle vi tegne dette logo. Opgaven gik ud på at anvende bl.a. ellipse-tool</p>
+                <p class="tekst"> Den første dag vi arbejdede med illustrator, skulle vi tegne dette logo. Opgaven gik ud på at anvende bl.a. ellipse-tool.</p>
             
                 <p class="tekst"> Derudover er logoet bygget op i forskellige layers.</p>        
             
