@@ -42,7 +42,7 @@
             <p class="tekst"> Det kræver en gennemtænkt designplan, men derudover er det ikke specielt vanskeligt at håndtere. Fordelen er, at man kan benytte det samme HTML og CSS til alle tre enheder. </p>
             
             <p class="tekst">
-            Rent teknisk indsætter man nogle forskellige breakpoints, der fortæller hvornår siden skal vises som mobil, tabler og desktop. 
+            Rent teknisk indsætter man nogle forskellige breakpoints, der fortæller, hvornår siden skal vises som mobil, tabler og desktop. 
             </p>  
             
          <div id="respons1container">
