@@ -18,7 +18,7 @@
         <div id="gestaltlov"> <!--gestaltlov start-->
             <h1>Gestaltlove</h1> 
             
-            <p class="tekst"> Gestaltlovene er et designværktøj, som vi bruger til at forstå hvordan den menneskelige hjerne ser sammenhænge i omverdenen, og hvordan vi sanser og føler.</p> 
+            <p class="tekst"> Gestaltlovene er et designværktøj, som vi bruger til at forstå, hvordan den menneskelige hjerne ser sammenhænge i omverdenen, og hvordan vi sanser og føler.</p> 
             
             <p class="tekst"> Gestaltlovene handler om perception og vores opfattelse af det vi sanser. Perception er påvirket af gestaltlovene samt vores baggrund og forventninger. </p> 
             
@@ -40,11 +40,11 @@
         <div id="perception"> <!--perception start-->
             <h2> Perception </h2> 
             
-            <p class="tekst">Perception handler om opfattelse af noget via sanserne. Det vores opfattelse af det vi sanser. Perception er påvirket af gestaltlovene samt vores baggrund og forventninger.  </p>
+            <p class="tekst">Perception handler om opfattelse af noget via sanserne. Det er vores opfattelse af det vi sanser. Perception er påvirket af gestaltlovene samt vores baggrund og forventninger.  </p>
             
             <p class="tekst"> Objektperception er vores opfattelse af ydre objekter.</p>
             
-            <p class="tekst"> Eksempel på perception. I starten ser vi ikke hunden, men blot sorte former på en hvid baggrund, men vi danner hurtigt et samlet billede af en hund der nysgerrigt snuser til jorden.</p>
+            <p class="tekst"> Eksempel på perception: I starten ser vi ikke hunden, men blot sorte former på en hvid baggrund, men vi danner hurtigt et samlet billede af en hund, der nysgerrigt snuser til jorden.</p>
             
         
         <div id="dalmatinercontainer">
@@ -99,7 +99,7 @@
         <div id="simalarity"> <!--Simalarity  start-->
             <h2> Simalarity (Lighed) </h2> 
             
-            <p class="tekst"> Visuelle elementer som er ens i form, størrelse, farve og retning opfattes som del af en gruppe. 
+            <p class="tekst"> Visuelle elementer som er ens i form, størrelse, farve og retning - opfattes som en del af en gruppe. 
             Farver er den stærkeste måde at skabe lighed på. 
             Det kan benyttes til at skabe relationer i navigation, links osv. for at understøtte hierarkiet i sitet. 
             Gennemført styling og content er vigtigt og antyder struktur. (Bogner, 2018, S.10 ,04_gestaltlovene.pdf)</p>
@@ -148,7 +148,7 @@
         <div id="whitespace"> <!--white space start-->
             <h2> White Space </h2> 
             
-            <p class="tekst"> White space er den luft som er imellem billeder, tekst, elementer osv. White space bruges som et grafisk trick til enten at knytte elementer sammen, eller adskille dem.</p>
+            <p class="tekst"> White space er den luft, som er imellem billeder, tekst, elementer osv. White space bruges som et grafisk trick til enten at knytte elementer sammen, eller adskille dem.</p>
             
             <p class="tekst"> Udover at bidrage til den overordnede æstetik, er white space også med til at øge læsbarheden af dine tekster på en side, ved at skabe overblik og forståelse. </p>
             
@@ -203,11 +203,11 @@
           <div id="common"> <!--Common Fate start-->
             <h2>Common Fate</h2> 
             
-            <p class="tekst"> Common fate har fokus på elementer der enten bevæger sig i samme retning, eller har samme funktion. Det ligger lidt i navnet ”samme skæbne”.</p> 
+            <p class="tekst"> Common fate har fokus på elementer, der enten bevæger sig i samme retning, eller har samme funktion. Det ligger lidt i navnet ”samme skæbne”.</p> 
                 
             <p class="tekst"> Det er et mønster vi ofte ser i naturen blandt fugleflokke og fiskestimer, som også bevæger sig i samme retning.  </p> 
                 
-            <p class="tekst"> Vi opfatter derfor elementer som bevæger sig på samme måde, og i samme retning, som værende sammenhørende.</p>
+            <p class="tekst"> Vi opfatter derfor elementer, som bevæger sig på samme måde, og i samme retning, som værende sammenhørende.</p>
              
 
         <div id="fiskestimecontainer">
@@ -223,7 +223,7 @@
         <div id="gridz"> <!--Grids start-->
             <h2>Grids</h2> 
             
-            <p class="tekst"> Grids er et slags gitter som man bruger til at organisere sit indhold. Det minder meget om f.eks. css grids, som denne hjemmeside er opbygget med.</p> 
+            <p class="tekst"> Grids er et slags gitter, man bruger til at organisere sit indhold. Det minder meget om f.eks. CSS-grids, som denne hjemmeside er opbygget med.</p> 
                 
             <p class="tekst">Grids er med til at skabe struktur og en ensartethed. Det bliver i høj grad brugt i aviser, magasiner osv. Man bemærker kun grids, når det ikke er der. </p> 
 
@@ -259,9 +259,9 @@
         <div id="closure"> <!--Closure start-->
             <h2>Closure</h2> 
             
-            <p class="tekst"> Reglen om lukkethed handler om menneskers evne til at afslutte mønstre og figurer, som ikke er helt afsluttet eller hvor noget information mangler.</p> 
+            <p class="tekst"> Reglen om lukkethed handler om menneskers evne til at afslutte mønstre og figurer, som ikke er helt afsluttet, eller hvor noget information mangler.</p> 
                 
-            <p class="tekst">Eksempel på dette er billedet nedenunder. Enten ser vi en hvid trekant oven på tre cirkler, ellers ser vi tre åbne trekanter</p> 
+            <p class="tekst">Et eksempel på dette er billedet nedenunder. Enten ser vi en hvid trekant oven på tre cirkler, ellers ser vi tre åbne trekanter.</p> 
 
         <div id="closecontainer">
             
