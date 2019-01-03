@@ -17,13 +17,13 @@
         <div id="dtindledning"> <!--Design thinking indledning start-->
             <h1> Design Thinking Generelt</h1> 
             
-            <p class="tekst"> Design thinking er et mind-set og en tankegang, vi som multimediedesignerstuderende er nødt til at have styr på. Det handler om meget mere en bare design. </p> 
+            <p class="tekst"> Design Thinking er et mind-set og en tankegang, vi som multimediedesignerstuderende er nødt til at have styr på. Det handler om meget mere end bare design. </p> 
             
-            <p class="tekst"> Design thinking handler om at kunne styre en designproces og de mange forskellige faser der hører til. Det er vigtigt at være nysgerrig før man tænker løsningsorienteret.</p> 
+            <p class="tekst"> Design Thinking handler om at kunne styre en designproces og de mange forskellige faser, der hører til. Det er vigtigt at være nysgerrig før man tænker løsningsorienteret.</p> 
               
-            <p class="tekst">Formålet med Design thinking er at skabe den bedste løsning til en given problemstilling. Det handler om at sætte sine egne antagelser til side, og rent faktisk forstå, hvad er problemstillingen reelt er. Derfor handler det om at have fokus på brugerne hele tiden, og møde dem der hvor de er. Man kan ikke sidde hjemme på kontoret hele dagen, og blive klogere på hvilke problemstillinger brugerne møder, man er nødt til at skal ud og tale med brugerne, observere dem, og bruge dem som testpersoner. Sagt med andre ord, så er brugercentreret design, en ekstrem vigtig del af en design thinking proces.</p> 
+            <p class="tekst">Formålet med Design Thinking er at skabe den bedste løsning til en given problemstilling. Det handler om at sætte sine egne antagelser til side, og rent faktisk forstå, hvad problemstillingen reelt er. Derfor handler det om at have fokus på brugerne hele tiden, og møde dem der hvor de er. Man kan ikke sidde hjemme på kontoret hele dagen, og blive klog på brugernes problemstillinger, man skal ud og tale med brugerne, observere dem, og bruge dem som testpersoner. Sagt med andre ord, så er brugercentreret design, en ekstrem vigtig del af en Design Thinking proces.</p> 
             
-            <p class="tekst">En Design thinking proces er opdelt i 6 forskellige faser. Empathize, define, ideate, prototype, test og implement. I de forskellige faser, har man fokus på nogle særlige områder. Det er vigtigt at huske, man kan sagtens gå frem og tilbage imellem de forskellige faser, oftest er det sådan man arbejder i en Design Thinking process.</p> 
+            <p class="tekst">En Design Thinking proces er opdelt i 6 forskellige faser: Empathize, Define, Ideate, Prototype, Test og Implementering. I de forskellige faser, har man fokus på nogle særlige områder. Det er vigtigt at huske, at man sagtens kan gå frem og tilbage imellem de forskellige faser, oftest er det sådan man arbejder i en Design Thinking proces.</p> 
             
         </div>  <!--Design thinking indledning slut-->
             
@@ -38,9 +38,9 @@
         <div id="define"> <!--Define start-->
             <h2>Define</h2> 
             
-            <p class="tekst"> Define fasen er her hvor vi begynder at definere problemet ud fra den data og information, som vi har indsamlet og undersøgt på i empathize-fasen. Efter at man har analyseret sin data, og fået den sat sammen kan man begynde at definere kerneproblemerne.</p>
+            <p class="tekst"> Define fasen er her, hvor vi begynder at definere problemet ud fra den data og information, som vi har indsamlet og undersøgt på i empathize-fasen. Efter at man har analyseret sine data, og fået den sat sammen, kan man begynde at definere kerneproblemerne.</p>
             
-            <p class="tekst"> Der er nogle forskellige metoder, som man kan anvende i define fasen f.eks. katagorisering af data, brugerrejse, stille ”hvordan kan vi” spørgsmål, mindmap osv.</p>  
+            <p class="tekst"> Der er nogle forskellige metoder, som man kan anvende i define fasen f.eks. kategorisering af data, brugerrejse, stille ”hvordan kan vi” spørgsmål, mindmap osv.</p>  
             
         </div>  <!--Define slut-->
             
@@ -58,7 +58,7 @@
             
             <p class="tekst"> I denne fase begynder vi at udvikle og designe prototyper. Ofte starter man med at udvikle nogle forholdsvis billige prototyper, som man kan brugerteste for at undersøge og løser de problemstillinger vi undersøgte i de tidligere faser. </p> 
             
-            <p class="tekst"> Her anvender man også forskellige metoder til at teste ens prototype f.eks. brugerrejse, changeboards.
+            <p class="tekst"> Her anvender man også forskellige metoder til at teste ens prototype f.eks. brugerrejse og changeboards.
             </p> 
             
         </div>  <!--Prototype slut-->     
@@ -66,13 +66,13 @@
         <div id="tests"> <!--Test start-->
             <h2> Test </h2> 
             
-            <p class="tekst"> Det er vigtigt at teste sin prototype for at undersøge om ideen virker efter den hensigt man udviklede den efter. Ofte opdager man at produktet ikke passer helt ind i virkeligheden, da brugerne nogle gange anvender anderledes end først antaget.</p> 
+            <p class="tekst"> Det er vigtigt at teste sin prototype for at undersøge om ideen virker efter den hensigt, man udviklede den efter. Ofte opdager man at produktet ikke passer helt ind i virkeligheden, da brugerne nogle gange anvender produktet anderledes end først antaget.</p> 
             
             <p class="tekst"> Derfor bør man altid teste ideer og løsninger tidligt i processen, da det er nemmere og billigere at foretage rettelser og korrektur, inden man har brugt tid og ressourcer på at færdiggøre et produkt, som i sidste ende ikke er hensigtsmæssigt for brugeren.</p> 
               
             <p class="tekst">Som udvikler skal man undgå at være nonchalant og selvtilfreds med sit resultat. Ofte bliver testfasen nedprioriteret i en presset projektplan, hvilket typisk ender med flere negative konsekvenser, da testfasen ofte bidrager med meget brugbar feedback direkte fra brugerne. </p> 
             
-            <p class="tekst">Der er forskellige metoder man kan anvende i testfasen f.eks. deltagerobservation, brugertest, Det kvalitative interview, changeboards osv.</p> 
+            <p class="tekst">Der er forskellige metoder, man kan anvende i testfasen f.eks. deltagerobservation, brugertest, det kvalitative interview, changeboards osv.</p> 
                     
         </div>  <!--Test slut-->
             
@@ -89,13 +89,13 @@
          <div id="dtprojekt"> <!--Design Thinking Projektet start-->
             <h2>Design Thinking Projektet</h2> 
             
-            <p class="tekst"> Den første uge under Design Thinking forløbet havde vi undervisning og gruppearbejde med forskellige faser i løbet af en Design Thinking proces. Her arbejdede vi med Metode, Kvalitativ tilgang, Quick and Dirty video og Håndgribelig dialog.</p> 
+            <p class="tekst"> Den første uge under Design Thinking forløbet havde vi undervisning og gruppearbejde med forskellige faser i løbet af en Design Thinking proces. Her arbejdede vi med metode, kvalitativ tilgang, quick and dirty video og håndgribelig dialog.</p> 
             
-            <p class="tekst"> Den anden uge havde vi et komprimeret Design Thinking Projekt, hvor vi skulle anvende de metoder og ikke mindst det mind-set vi havde lært i den første uge. </p>
+            <p class="tekst"> Den anden uge havde vi et komprimeret Design Thinking Projekt, hvor vi skulle anvende de metoder og ikke mindst det mind-set, vi havde lært i den første uge. </p>
              
             <p class="tekst"> Jeg skulle arbejde sammen med Erin og Mikkel, hvilket var spændende, da dette var det første længere gruppebaseret projektet på 1. semester.</p>
              
-            <p class="tekst"> Produktet vi skulle aflevere, var defineret som en app, der skulle løse en problemstilling omkring ”udlån og reservation” – Men derudover var opgaven ikke nærmere beskrevet, herfra var det op til os selv at finde en problemstilling vi ville arbejde med.</p>
+            <p class="tekst"> Produktet vi skulle aflevere, var defineret som en app, der skulle løse en problemstilling omkring ”udlån og reservation”. Derudover var opgaven ikke nærmere beskrevet, og det var derfor op til os selv, at finde den problemstilling vi ville arbejde med.</p>
              
              
             <p class="tekst">Vi startede hele projektet med at udarbejde en gruppekontrakt, hvori vi blev enige om, hvordan vi ville arbejde, og hvilke forventninger vi havde til hinanden og selve projektet. Den kan du læse <a href="Gruppekontrakt.pdf">her</a> </p>
@@ -117,7 +117,7 @@
                         
             </div> 
             
-            <p class="tekst"> Vi beholdte de ideer vi synes var spændende, og foretog yderligere en brainstorms omkring disse. På den måde arbejdede vi hele tiden divergent og konvergent i vores brainstormproces.</p>
+            <p class="tekst"> Vi beholdte de ideer vi synes var spændende, og foretog yderligere brainstorms omkring disse. På den måde arbejdede vi hele tiden divergent og konvergent i vores brainstormproces.</p>
             
             <div id="brainstorm2container">
             
@@ -132,7 +132,7 @@
             
              <p class="tekst"> Vi endte med ”booking og reservation af parkeringspladser”. Herfra handlede det om at være nysgerrige, og for at blive klogere på problemstillingen valgte vi at køre til Aarhus på dag 2.</p>
             
-             <p class="tekst"> I øvrigt afsluttede vi alle dage i processen med at udarbejde en Quick and Dirty video, derfor skulle vi huske at optage video omkring vores processor og overvejelser hver dag. </p>
+             <p class="tekst"> I øvrigt afsluttede vi alle dage i processen med at udarbejde en Quick and Dirty video. Derfor optog vi en video omkring vores processor og overvejelser hver dag. </p>
             
         </div>  <!--Dag 1 slut-->  
             
@@ -141,7 +141,7 @@
         <div id="dag2"> <!--Dag 2 start-->
             <h2>Dag 2 - Empathize og Define</h2> 
             
-            <p class="tekst"> Vi startede dagen med at køre til Aarhus, fordi vi ville opnå en større forståelse og indsigt i parkeringsudfordringerne i de større byer. Vi havde planlagt dagen forinden, hvilke metoder vi ville arbejde med.</p> 
+            <p class="tekst"> Vi startede dagen med at køre til Aarhus, fordi vi ville opnå en større forståelse og indsigt i parkeringsudfordringerne i de større byer. Vi havde planlagt dagen forinden, og hvilke metoder vi ville arbejde med.</p> 
             
             <div id="aarhus1container">
             
@@ -152,7 +152,7 @@
             </div> 
         
             
-            <p class="tekst"> Det var bl.a. observationer på parkeringspladser, hvor vi betragtede og analyserede hvordan brugerne oplevede det at parkere i Aarhus C.</p>
+            <p class="tekst"> Det var bl.a. observationer på parkeringspladser, hvor vi betragtede og analyserede, hvordan brugerne oplevede det at parkere i Aarhus C.</p>
             
             
              <div id="aarhus2container">
@@ -163,7 +163,7 @@
                         
             </div> 
             
-            <p class="tekst"> Derudover foretog vi kvalitative interviews med de lokale brugere. Igennem samtaler og semi-strukturerede interviews, blev vi en del klogere på problemet, og fik en masse brugbare data. Vi besluttede os for at vi ville have inputs fra forskellige interessenter, derfor talte vi både med privatpersoner, forretningsdrivende, parkeringsselskaber og Aarhus Kommune. </p>
+            <p class="tekst"> Derudover foretog vi kvalitative interviews med de lokale brugere. Igennem samtaler og semi-strukturerede interviews, blev vi en del klogere på problemet, og fik en masse brugbare data. Vi besluttede os for, at vi ville have inputs fra forskellige interessenter, derfor talte vi både med privatpersoner, forretningsdrivende, parkeringsselskaber og Aarhus Kommune. </p>
             
             <p class="tekst"> Derudover ville vi selv opleve udfordringen ved at finde en parkeringsplads i Aarhus, og opleve problemet på egen hånden. Af den grund brugte vi metoden ”vær problemet”.</p>
             
@@ -216,7 +216,7 @@
                         
             </div>
             
-            <p class="tekst"> Vi tegnede et Changeboard for at finde ud af hvem er målgruppen, hvad skal løses for målgruppen, hvordan løser konceptet det for målgruppen, hvad er de særlige fordele for målgruppen, hvad er de særlige fordele for virksomheden, hvad har konceptet forandret for brugeren. </p> 
+            <p class="tekst"> Vi tegnede et Changeboard for at finde ud af: hvem er målgruppen? Hvad skal løses for målgruppen? Hvordan løser konceptet det for målgruppen? Hvad er de særlige fordele for målgruppen? Hvad er de særlige fordele for virksomheden? Hvad har konceptet forandret for brugeren? </p> 
             
             
             <div id="ideate3container">
@@ -257,7 +257,7 @@
                         
             </div> 
             
-            <p class="tekst"> Vi havde stort fokus på brugervenlighed, af den grund var det vigtigt at vi fik brugertestet vores prototype. Det gjorde vi igennem brugerrejse. Vi vekslede imellem at brugerteste og udvikle hele tiden, indtil vi nåede den færdige prototype.</p>
+            <p class="tekst"> Vi havde stort fokus på brugervenlighed, af den grund var det vigtigt, at vi fik brugertestet vores prototype. Det gjorde vi igennem brugerrejse. Vi vekslede imellem at brugerteste og udvikle hele tiden, indtil vi nåede den færdige prototype.</p>
             
             
            <div id="prototype3container">
@@ -274,7 +274,7 @@
         <div id="dag5"> <!--dag 5 datamatikere start-->
             <h2>Dag 5 - Møde med datamatikerne</h2> 
             
-            <p class="tekst"> Da vi var færdige med vores projekt, skulle vi aflevere en video, som samlet set præsenterede hvordan vi havde arbejdet.</p>
+            <p class="tekst"> Da vi var færdige med vores projekt, skulle vi aflevere en video, som samlet set præsenterede, hvordan vi havde arbejdet.</p>
             
             <p class="tekst"> Et par dage efter havde vi et møde med nogle datamatikere, som skulle kode app´en færdig. På dette møde fik vi dem forklaret, hvilke overvejelser og erfaringer vi havde gjort os med SmartPark. Herefter stillede de nogle spørgsmål, og efter en god times tid, var de klar til at gå videre med kodningen. </p>  
             
@@ -286,7 +286,7 @@
             
             <p class="tekst"> Jeg synes, at det har været super spændende og lærerigt at arbejde med Design Thinking. Jeg kan sagtens forstå, hvorfor det er et mind-set som er udbredt blandt multimediedesignere. Hele tanken om at tilsidesætte sine egne antagelser, inden man ideudvikler, har afgjort været den største øjenåbner for mig.</p>
             
-            <p class="tekst"> Det har været spændende at arbejde med en case, som har været forholdsvis praksisnær. Jeg føler, at jeg har lært mange nyttige metoder og værktøjer i forbindelse med Design Thinking, som jeg uden tvivl tager med mig videre.</p>  
+            <p class="tekst"> Det har været spændende at arbejde med en case, som har været forholdsvis praksisnær. Jeg føler, at jeg har lært mange nyttige metoder og værktøjer i forbindelse med Design Thinking, som jeg uden tvivl tager med videre.</p>  
             
         </div>  <!--refleksion slut-->
                
