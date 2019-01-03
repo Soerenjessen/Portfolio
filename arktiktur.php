@@ -17,9 +17,9 @@
         <div id="iarkitektur"> <!--Informationsarkitektur start-->
             <h1> informationsarkitektur </h1> 
             
-            <p class="tekst"> IA handler om organisering og strukturering af information, som i sidste ende skal gøre det nemmere for brugeren at finde den information de søger. Det er vigtigt at huske, at IA ikke har noget med grafisk design at gøre, det handler om at organisere information </p> 
+            <p class="tekst"> IA handler om organisering og strukturering af information, som i sidste ende skal gøre det nemmere for brugeren, at finde den information de søger. Det er vigtigt at huske, at IA ikke har noget med grafisk design at gøre, det handler om at organisere information.</p> 
             
-            <p class="tekst"> Der er mange måder man kan organisere information, vi har bl.a. arbejdet med Wurmans fem måder at organisere på, også kendt som LATCH-modellen.</p> 
+            <p class="tekst"> Der er mange måder man kan organisere information, vi har bl.a. arbejdet med Wurmans fem måder at organisere på, også kendt som LATCH-modellen:</p> 
                 
             <p class="tekst"> - Location: Her organiserer man ud fra en fysisk eller geografisk organisering. Et eksempel kunne være et kort over S-tog nettet i København.</p>  
             
@@ -29,7 +29,7 @@
             
             <p class="tekst"> -	Alfabetisk: Her organiserer man sin information ud fra bogstaver i alfabetet. Alfabetisk inddeling kan man finde på biblioteker, pladebutikker, ordbøger, gamle leksikoner osv.</p> 
             
-            <p class="tekst"> -	Hierarki: Her organiserer man efter værdi - Det kunne være alt lige fra størrelse, pris, værdi, vægt, højde osv. Et eksempel kunne være pricerunner.dk, som organiserer efter pris.</p> 
+            <p class="tekst"> -	Hierarki: Her organiserer man efter værdi - Det kunne være alt lige fra pris, vægt, højde, bredde, længde osv. Et eksempel kunne være pricerunner.dk, som organiserer efter pris.</p> 
         
         </div> <!--Informationsarkitektur slut-->
             
@@ -42,7 +42,7 @@
             
             <p class="tekst"> Der er mange måder at organisere og sortere information, og mange steder kombinerer man sorteringsmåder. Når vi arbejder med informationsarkitektur, findes der ”bad”, ”good”, ”great” informationsarkitektur. </p>
             
-            <p class="tekst"> Hvis vi tager udgangspunkt i pladebutikken, så kunne ”bad” eller dårlig informationsarkitektur være en opdeling efter bands politiske overbevisninger. Tager vi fat i modellen med ”den lange hale” og kigger på den sortering, så vil måske den fungere godt for den helt dedikerede fangruppe som kender bandet dybdegående, og dermed befinder sig helt ude i spidsen af halen. Hvorimod den sortering vil være uhensigtsmæssig, set i forhold til den bredde befolkning, der befinder sig i den anden ende af halen, og ikke har dyb nok kendskab til bandets politiske overbevisning. </p>
+            <p class="tekst"> Hvis vi tager udgangspunkt i pladebutikken, så kunne ”bad” eller dårlig informationsarkitektur være en opdeling efter bands politiske overbevisninger. Tager vi fat i modellen med ”den lange hale” og kigger på den sortering, så vil den måske fungere godt for den helt dedikerede fangruppe som kender bandet dybdegående, og dermed befinder sig helt ude i spidsen af halen. Hvorimod den sortering vil være uhensigtsmæssig, set i forhold til den bredde befolkning, der befinder sig i den anden ende af halen, og ikke har dyb nok kendskab til bandets politiske overbevisning. </p>
             
             <p class="tekst"> Good informationsarkitektur kan opnås ved at skabe en god sortering, så det er let at finde den information man søger. Dette kan gøres ved f.eks. at indsætte et søgefelt. 
             Great informationsarkitektur er, når du ikke behøver at søge efter informationen. Den information man søger kan findes rent intuitivt ved at klikke på siden. Man skal ikke være i tvivl om, hvor man skal finde sin information henne. 
@@ -54,7 +54,7 @@
         <div id="iaeksempel2"> <!--Iaeksempel2 start-->
             <h2> Eksempel </h2> 
             
-            <p class="tekst"> I den forbindelse udarbejdede Steffen, Ida og jeg en kortsortering til ”Det Bette Ismejeri”. Vi startede med en brainstorm, hvor vi fandt ud af, hvad der skulle med på hjemmesiden. Herefter foretog vi en kortsortering på vores ideer, hvor vi havde forskellige testpersoner til at inddele de kategorier, som de følte hørte sammen. Dette gav pludselig et andet billede af hvordan andre mennesker, anså de kategorier vi havde formuleret i vores brainstorm, og hvilke sammenhænge de synes var intuitive.   
+            <p class="tekst"> I den forbindelse udarbejdede Steffen, Ida og jeg en kortsortering til ”Det Bette Ismejeri”. Vi startede med en brainstorm, hvor vi fandt ud af, hvad der skulle med på hjemmesiden. Herefter foretog vi en kortsortering på vores ideer, hvor vi havde forskellige testpersoner til at inddele de kategorier, som de følte hørte sammen. Dette gav pludselig et andet billede af, hvordan andre mennesker, anså de kategorier vi havde formuleret i vores brainstorm, og hvilke sammenhænge de synes var intuitive.   
             </p>  
             
         <div id="kortcontainer1">
@@ -89,12 +89,12 @@
         <div id="iaeksempel3"> <!--Iaeksempel 3 start-->
             <h2> Eksempel </h2> 
             
-            <p class="tekst"> Vi fik en anden opgave på klassen, som gik ud på at sortere LEGO på forskellige måder. Der var nogle der inddelte deres LEGO efter farver, andre inddelte efter form, nogle andre opdelte efter størrelse. Konklusion på denne opgave var, at der er mange forskellige måder at sortere LEGO på.  
+            <p class="tekst"> Vi fik en anden opgave på klassen, som gik ud på at sortere LEGO på forskellige måder. Der var nogle, der inddelte deres LEGO efter farver, andre inddelte efter form, nogle andre opdelte efter størrelse. Konklusion på denne opgave var, at der er mange forskellige måder at sortere LEGO på.  
             </p>  
             
             <p class="tekst"> Ida og jeg forsøgte at inddele vores Lego efter former og funktion. Dette skulle vise sig, at være en svær måde at opdele Lego på.</p>  
             
-            <p class="tekst">Udfordringen var at finde ud af, hviklen kategori de enkelte klodser hørte til under. Det var en vanskelig opgave, da der var rigtig mange forskellige klodser. Netop af den grund opstod der hurtigt mange små forskellige kategorier, som gjorde det uoverskueligt og besværligt for andre at gennemskue.</p> 
+            <p class="tekst">Udfordringen var at finde ud af, hvilken kategori de enkelte klodser hørte til under. Det var en vanskelig opgave, da der var rigtig mange forskellige klodser. Netop af den grund opstod der hurtigt mange små forskellige kategorier, som gjorde det uoverskueligt og besværligt for andre at gennemskue.</p> 
             
             <p class="tekst"> Opgaven blev ikke ligefrem nemmere, da Niels på et tidspunkt kom rundt med en ny håndfuld Lego, som skulle sorteres efter samme princip.</p> 
             
