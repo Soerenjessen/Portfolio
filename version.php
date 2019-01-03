@@ -64,7 +64,7 @@
         <div id="branch"> <!--Branch start-->
             <h2> Branch </h2> 
             
-            <p class="tekst"> En branch er gren af projektet, som oprettes i dit repository. Det bruges til, at man kan arbejde videre med sin kode, selvom master-branchen er online. Bemærk en Master Branch er selve hovedprojektet  
+            <p class="tekst"> En branch er en gren af projektet, som oprettes i dit repository. Det bruges til, at man kan arbejde videre med sin kode, selvom master-branchen er online. Bemærk en Master Branch er selve hovedprojektet  
             </p>  
             
         </div>  <!--Branch slut-->   
