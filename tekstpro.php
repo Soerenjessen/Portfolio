@@ -32,10 +32,10 @@
             <p class="tekst">En artikel er opbygget på den måde, at man i overskriften typisk indleder med en påstand, som bliver understøttet med argumentation nede i brødteksten. 
             </p>
             
-            <p class="tekst">Grundlaget for at skabe et godt website er, at definere hvad siden formål er, og hvem man kommunikerer til. Man skal det gøre klart, hvad siden skal kunne, skal den være oplysende, sælgende, servicerende osv.  
+            <p class="tekst">Grundlaget for at skabe et godt website er, at definere, hvad sidens formål er, og hvem man kommunikerer til. Man skal gøre det klart, hvad siden skal kunne, skal den være oplysende? Sælgende? Servicerende? Osv.  
             </p>  
             
-            <p class="tekst">Det er vigtigt at have gode webtekster på sin hjemmeside, da det er med til at fastholde læserens interesse, hvilket gør at de bliver længere tid på siden. Derudover er gode webtekster også med til at forbedre din SEO og derved sikre bedre placering i søgemaskiner. Det er vigtigt at tænke SEO ind i alle webtekster.  
+            <p class="tekst">Det er vigtigt at have gode webtekster på sin hjemmeside, da det er med til at fastholde læserens interesse, hvilket gør, at de bliver længere tid på siden. Derudover er gode webtekster også med til at forbedre din SEO og derved sikre bedre placering i søgemaskiner. Det er vigtigt at tænke SEO ind i alle webtekster.  
             </p>  
             
             <p class="tekst">En webtekst skal ikke bare være en god historie, den skal i sidste ende være med til at skabe konvertering og call to action. 
@@ -46,7 +46,7 @@
         <div id="nyhedstrekanten"> <!--Nyhedstrekanten start-->
             <h2> Nyhedstrekanten</h2> 
             
-            <p class="tekst"> Nyhedstrekanten er en model som vi bruger til opbygning af en nyhedshistorie. Den består af 5 faser, en indledning, uddybning, baggrund, sekundære emner, detaljer. 
+            <p class="tekst"> Nyhedstrekanten er en model, som vi bruger til opbygning af en nyhedshistorie. Den består af 5 faser, en indledning, uddybning, baggrund, sekundære emner, detaljer. 
             </p> 
             
             <p class="tekst"> 
@@ -60,6 +60,16 @@
             <p class="tekst"> Nyhedstrekanten kan også bringes i spil, når man skriver webtekster. Her er det vigtigt, at få hovedbudskabet frem i din overskrift, og derefter uddybe med bagrund og detaljer længere nede på siden.</p> 
             
             <p class="tekst"> Hovedsagligt skal dine tekster være nemme at skimme. De skal være skrevet i lag, skab gerne luft i teksten, og brug gerne whitespace og links.</p> 
+            
+         <div id="closetextcontainer">
+            
+                <img id="closetext" class="allebilleder" src="Billeder/closetext.jpg">
+                
+                <blockquote> Husk white space ↑ </blockquote> 
+                        
+        </div>     
+            
+            
             
         </div>  <!--Nyhedstrekanten slut-->
             
