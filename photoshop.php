@@ -17,10 +17,10 @@
         <div id="photoshop"> <!--Photoshop start-->
             <h1>Photoshop</h1> 
             
-            <p class="tekst"> Photoshop er et billedbehandlingsprogram, hvor man kan redigere og manipulere billeder. Programmet er pixelbaseret modsat Illustrator som er vectorgrafik.</p> 
+            <p class="tekst"> Photoshop er et billedbehandlingsprogram, hvor man kan redigere og manipulere billeder. Programmet er pixelbaseret modsat Illustrator, som er vectorgrafik.</p> 
             
             <p class="tekst"> Programmet bruges primært til manipulation og behandling af billeder. 
-            I photoshop arbejder man i layers, det gør man bl.a. for at kunne arbejde non-destruktivt. Fordelen ved at arbejde i layers og non-destruktivt er, at man kan ændre sine handlinger og fortryde ændringer og manipulering man har skabt – Det kunne f.eks. være en fritlægning.</p> 
+            I photoshop arbejder man i layers, det gør man bl.a. for at kunne arbejde non-destruktivt. Fordelen ved at arbejde i layers og non-destruktivt er, at man kan ændre sine handlinger og fortryde ændringer, samt den manipulering man har skabt – Det kunne f.eks. være en fritlægning.</p> 
             
             <p class="tekst"> I photoshop kan du opsætte dit eget unikke interface, så det passer til dine behov, hvilket kan være tidsbesparende i sidste ende. Grundlæggende handler det om at sætte interfacet op, så det passer til din arbejdsgang – Men ellers er der nogle ganske udmærket defaults, som passer til de opgaver man gerne vil løse. </p> 
             
@@ -46,7 +46,7 @@
         <div id="artboards"> <!--Artboards start-->
             <h2> Artboards </h2> 
             
-                <p class="tekst"> Et artboard er en form for lærred, som giver mulighed for at arbejde på flere forskellige ting samtidig.</p>
+                <p class="tekst"> Et artboard er en form for lærred, som giver mulighed for at arbejde på flere forskellige ting samtidigt.</p>
                 
                 <p class="tekst">Den dag vi tegnede spøgelser brugte vi artboards. Her skulle vi bruge farver til at beskrive forskellige stemninger.</p>
             
@@ -64,7 +64,7 @@
         <div id="selections"> <!--Selection start-->
             <h2> Selections</h2> 
             
-                <p class="tekst"> Der findes forskellige slags selection tools. Det bruges til at markere en del af billedet, som man gerne vil arbejde med. 
+                <p class="tekst"> Der findes forskellige slags selection tools. Det bruges til at markere den del af billedet, som man gerne vil arbejde med. 
                 Et eksempel kunne være quick selection tool, som hjælper med at markere. Det gør den ved at gætte sig frem til, hvad der skal markeres. Quick selection tool er smart til at foretage en hurtig markering af et billede.</p>
             
             <div id="quickcontainer"> 
@@ -80,7 +80,7 @@
         <div id="pen"> <!--Pen Tool start-->
             <h2> Pen Tool</h2> 
             
-                <p class="tekst"> Pen tool bruger du til at definere nogle punkter, hvorefter du kan bøje de linjer som bliver genereret imellem de forskellige punkter. Eksempel Pen tool kan bruges til at fritlægge spøgelse.</p>
+                <p class="tekst"> Pen tool bruger du til at definere nogle punkter, hvorefter du kan bøje de linjer som bliver genereret imellem de forskellige punkter. Eksempelvis kan Pen tool bruges til at fritlægge spøgelse.</p>
             
             <div id="pentoolcontainer"> 
             
