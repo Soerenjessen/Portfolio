@@ -17,12 +17,12 @@
         <div id="oneintro"> <!--One Page indledning start-->
             <h1> One Page-Projekt </h1> 
             
-            <p class="tekst"> Til One Page-projektet brugte vi mange af metoderne og tilgangene fra Design Thinking, derfor anbefaler jeg, at du læser hvad jeg har skrevet om Design Thinking først. 
+            <p class="tekst"> Til One Page-projektet brugte vi mange af metoderne og tilgangene fra Design Thinking, derfor anbefaler jeg, at du læser, hvad jeg har skrevet om Design Thinking først. 
             Se <a href="designthinking.php">her</a> </p> 
             
             <p class="tekst"> I forbindelse med vores One Page-projekt skulle jeg arbejde sammen med Gert, hvilket gik super godt. Jeg synes, at vi fik udarbejdet et solidt projekt, hvor vi var blevet tilpas udfordret, og vi følte begge at vi havde flyttet os rent fagligt. </p> 
               
-            <p class="tekst">Hele projektet forløb henover 2,5 uge, hvor vi skulle igennem de forskellige faser i en design thinking proces. Vi startede med researchfasen, som indeholdte empathize og define. Dernæst gik vi over i designfasen, som bød på ideate og prototyping. Til slut beskæftigede vi os med produktionsfasen, hvor vi arbejde med kode, tekstforfatning og implementering.</p> 
+            <p class="tekst">Hele projektet forløb henover 2,5 uge, hvor vi skulle igennem de forskellige faser i en design thinking proces. Vi startede med researchfasen, som indeholdte empathize og define. Dernæst gik vi over i designfasen, som bød på ideate og prototyping. Til slut beskæftigede vi os med produktionsfasen, hvor vi arbejdede med kode, tekstforfatning og implementering.</p> 
             
         </div>  <!--One Page indledning slut-->
             
@@ -38,9 +38,9 @@
         <div id="researchfasen"> <!--Researchfasen start-->
             <h2> Empathize Part 1</h2> 
             
-            <p class="tekst"> Vi startede mandag morgen med at skulle trække et tilfældigt produkt op af en indkøbspose fra Bilka, som Niels havde med. Skæbnen ville at Gert og jeg skulle trække Biotex Ultimate Color vaskemiddel, og herfra gik det stærkt. </p> 
+            <p class="tekst"> Vi startede mandag morgen med at skulle trække et tilfældigt produkt op af en indkøbspose fra Bilka, som Niels havde med. Skæbnen ville, at Gert og jeg skulle trække Biotex Ultimate Color vaskemiddel, og herfra gik det stærkt. </p> 
             
-            <p class="tekst"> Vi startede dagen ud med en Brainstorm, omkring alle vores ideer med Biotex og vaskemiddel generelt. Her arbejdede vi både divergent og konvergent med vores brainstormproces</p> 
+            <p class="tekst"> Vi startede dagen ud med en Brainstorm, omkring alle vores ideer med Biotex og vaskemiddel generelt. Her arbejdede vi både divergent og konvergent med vores brainstormproces.</p> 
             
             <div id="research1container">
             
@@ -73,7 +73,7 @@
             </div> 
             
             <p class="tekst">
-            Dagen efter gik vi i gang med at formulere nogle spørgsmål, som vi havde undret os over. Dernæst foretog vi nogle interviews som var semistruktureret. Hvilket gav en masse data, som bidrog til en bredere forståelse af folks opfattelse af produktet.  
+            Dagen efter gik vi i gang med at formulere nogle spørgsmål, som vi havde undret os over. Dernæst foretog vi nogle interviews, som var semistruktureret. Hvilket gav en masse data, som bidrog til en bredere forståelse af folks opfattelse af produktet.  
             </p>
             
              <div id="research4container">
@@ -104,7 +104,7 @@
             
             <h2>User Stories</h2>
             
-            <p class="tekst"> Vi havde defineret at den målgruppe vi ville appellere til, var unge mennesker i alderen 20-35 år. Derfra begyndte vi at definere nogle user stories, som skulle hjælpe os med at tydeliggøre hvad vores One-page side burde indeholde i forhold til vores målgruppe. De tre user stories som vi endte med at bruge kan du læse 
+            <p class="tekst"> Vi havde defineret at den målgruppe vi ville appellere til, var unge mennesker i alderen 20-35 år. Derfra begyndte vi at definere nogle user stories, som skulle hjælpe os med at tydeliggøre, hvad vores One-page side burde indeholde i forhold til vores målgruppe. De tre user stories som vi endte med at bruge kan du læse 
             <a href="User1.pdf">Her</a></p> 
             
             <h2> Feature / Unfeature Liste</h2> 
@@ -200,14 +200,14 @@
         <div id="produktionsfasen"> <!--Produktionsfasen start-->
             <h2> Produktionsfasen</h2> 
             
-            <p class="tekst"> Efter at vi var færdige med designfasen gik vi over i produktionsfasen. Det var her at vi skulle til at kode vores One Page. Her arbejdede i teksteditoren Brackets, hvor vi kodede i HTML, CSS og CSS grids.</p> 
+            <p class="tekst"> Efter at vi var færdige med designfasen, gik vi over i produktionsfasen. Det var her, at vi skulle til at kode vores One Page. Her arbejdede vi med teksteditoren Brackets, hvor vi kodede i HTML, CSS og CSS grids.</p> 
         
             
-            <p class="tekst"> Dette var den første side vi har kodet i CSS grid. Af den grund, havde vi også nogle udfordringer undervejs rent kodemæssigt. Vi brugte meget tid på at få vores mobilversion til at fungere 100%, men da den først fungerede, gik det hurtigt med at udvikle tablet og desktop</p> 
+            <p class="tekst"> Dette var den første side vi kodede i CSS grid. Af den grund, havde vi også nogle udfordringer undervejs rent kodemæssigt. Vi brugte meget tid på at få vores mobilversion til at fungere 100%, men da den først fungerede, gik det hurtigt med at udvikle tablet og desktop.</p> 
             
             <h2>Webtekster</h2>
                 
-            <p class="tekst"> Det var også i produktionsfasen, at vi skrev alle vores webtekster til siden. Her var vi meget bevidste om, at vi ville kommunikere i et letforståeligt og humoristisk sprog.  Du kan læse webteksterne 
+            <p class="tekst"> Det var også i produktionsfasen, at vi skrev alle vores webtekster til siden. Her var vi meget bevidste om, at vi ville kommunikere i et letforståeligt og humoristisk sprog. Du kan læse webteksterne 
             <a href="webtext.pdf">her</a></p>
             
             
@@ -265,9 +265,9 @@
             
             <p class="tekst">One Page-projektet er et af de projekter på 1. semester, hvor jeg synes, at jeg har lært mest, og flyttet mig mest. Selve længden på omkring 20 dage, gjorde at jeg kom meget dybere ned i de enkelte processer, hvilket var enormt lærerigt.</p> 
             
-            <p class="tekst">I forbindelse med One Page-projektet lærte jeg en del, men en af de punkter, hvor jeg lærte mest var CSS grids. Vi havde ikke arbejdet specielt meget med CSS Grids forinden, derfor var det også naturligt nok, at vi ville begå nogle fejl undervejs i kodefasen</p> 
+            <p class="tekst">I forbindelse med One Page-projektet lærte jeg en del, men en af de punkter, hvor jeg lærte mest var CSS grids. Vi havde ikke arbejdet specielt meget med CSS Grids forinden, derfor var det også naturligt nok, at vi ville begå nogle fejl undervejs i kodefasen.</p> 
                 
-            <p class="tekst">En af de fejl vi begik, var at vores navngivning af billeder, id´er og classes, de var alt for forvirrende. Det gjorde det svære overskue vores kode, jo længere vi kom. </p> 
+            <p class="tekst">En af de fejl vi begik, var at vores navngivning af billeder, id´er og classes, de var alt for forvirrende. Det gjorde det svære at overskue vores kode, jo længere vi kom. </p> 
             
             <p class="tekst">Det har været en af de ting, som jeg bl.a. har været meget opmærksom på i forhold til denne her side. Bruge tydelige og forklarende navne som id, class, selector osv. Det gør det meget nemmere, når man kommer længere i processen.</p> 
             
