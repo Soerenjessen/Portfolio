@@ -17,7 +17,7 @@
         <div id="indledningfarve"> <!--indledningfarve start-->
             <h1>Farve og Typografi</h1> 
             
-            <p class="tekst"> Vi finder farver og typografi uanset hvor vi kigger hen, alt lige fra mælkekartonen ned i Netto til forsiden af Bo Bedre.</p> 
+            <p class="tekst"> Vi finder farver og typografi, uanset hvor vi kigger hen, alt lige fra mælkekartonen nede i Netto til forsiden af Bo Bedre.</p> 
             
             <p class="tekst">Den rigtige kombination mellem farver og typografi, kan være med til at skabe en stærk visuel identitet, som kan gøre dit brand eller virksomhed nemmere at genkende.</p> 
             
@@ -48,8 +48,8 @@
             <p class="tekst"> Et eksempel kunne være Arial, Helvetica osv. Det er kun skrifttyper – ikke typefaces. 
             Alt omkring fonte drejer sig om skrifttype.</p>
             
-            <p class="tekst">Når man kombinerer fonte med Weights giver det et typeface. 
-            Eksempel kunne være Arial (font) Regular (Weight) – Andre weights kunne være italic, bold, bold italic, Arial Black.</p>
+            <p class="tekst">Når man kombinerer fonte med Weights, giver det et typeface. 
+            Et eksempel kunne være Arial (font) Regular (Weight) – Andre weights kunne være Italic, Bold, Bold Italic, Arial Black.</p>
             
             <p class="tekst">Her vil din typeface være Arial Regular.</p>
             
@@ -64,13 +64,13 @@
             
             <p class="tekst"> Man skal have rettigheder til at bruge fonte/typefaces, da mange skrifttyper/fonts har copyright.</p>
             
-            <p class="tekst"> Ofte ejet af store firmaer som Coca Cola – Derfor skal man lige tænke sig om inden man bruger Coca Colas typeface på det lokale old boys holds hjemmeside.</p>
+            <p class="tekst"> Ofte ejet af store firmaer som Coca Cola – Derfor skal man lige tænke sig om, inden man bruger Coca Colas typeface på det lokale old boys holds hjemmeside.</p>
             
             <p class="tekst"> Omvendt findes der mange forskellige gratis typefaces eks. Google fonts, What the font, 1001 fonts osv.</p>
             
-            <p class="tekst"> I forbindelse med udarbejdelsen af denne hjemmeside har jeg brugt Google Fonts. Her har jeg brugt Oswald fonten til mine overskrifter, da det er en sans serif, dvs den har ingen fødder. Sans seriffer bruges ofte til overskrifter.</p>
+            <p class="tekst"> I forbindelse med udarbejdelsen af denne hjemmeside har jeg brugt Google Fonts. Her har jeg brugt Oswald fonten til mine overskrifter, da det er en sans serif, dvs. den har ingen fødder. Sans seriffer bruges ofte til overskrifter.</p>
             
-            <p class="tekst">Til min brødtekst har jeg valgt skriftypen Halvant, som er en serif. Det vil sige den har fødder, hvilket gør den letlæselig, og man bliver ikke træt i hovedet som læser. </p>
+            <p class="tekst">Til min brødtekst har jeg valgt skriftypen Halvant, som er en serif. Dvs. den har fødder, hvilket gør den letlæselig, og man bliver ikke træt i hovedet som læser. </p>
             
         <div id="typefacecontainer">
             
@@ -87,19 +87,19 @@
         <div id="farvelare"> <!--Farvelære start-->
             <h2> Farvelære </h2> 
             
-            <p class="tekst"> Når man arbejder med farvelære er det vigtigt at være bevidst om den psykologi, som farver har på os mennesker.</p>
+            <p class="tekst"> Når man arbejder med farvelære, er det vigtigt at være bevidst om den psykologi, som farver har på os mennesker.</p>
             
             <p class="tekst"> Farvers betydning og symbolik varierer fra kultur til kultur.</p>
             
-            <p class="tekst">Man kan altså ikke skrive en universal farveguide til hele verden, der vil altid være forskelle på kulturer, og dermed hvilken betydning vi tilægger de enkelte farver</p>
+            <p class="tekst">Man kan altså ikke skrive en universal farveguide til hele verden, der vil altid være forskelle på kulturer, og dermed hvilken betydning vi tillægger de enkelte farver</p>
             
             <p class="tekst">Et studie udført blandt Himba-folket i Namibia, viste at de ikke er i stand til at genkende farven blå. De blev præsenteret et billede med grønne firkanter, og en enkelt blå firkant, som de ikke var i stand til at udpege. </p>
             
             <p class="tekst">Hvorimod de bagefter blev præsenteret for et billede med grønne firkanter, hvor en af firkanterne havde en anden nuance af grøn. Den kunne de allesammen udpege. </p>
             
-            <p class="tekst">Forskerne tror, at det er kulturelt betinget. Der findes for eksempel ikke et ord for ‘blå’ i Himba-folkets sprog. Derimod har de flere ord for grøn. De kan selvsagt se farven, men lægger sansynligvis ikke mærke til den, funderer forskerne.(videnskab.dk/sporg-videnskaben/hvordan-pavirker-farver-os)</p>
+            <p class="tekst">Forskerne tror, at det er kulturelt betinget. Der findes eksempelvis ikke et ord for ‘blå’ i Himba-folkets sprog. Derimod har de flere ord for grøn. De kan selvsagt se farven, men lægger sandsynligvis ikke mærke til den, funderer forskerne.(videnskab.dk/sporg-videnskaben/hvordan-pavirker-farver-os)</p>
             
-            <p class="tekst">En forsker ved navn Zena O´ Conner, mener at vores opfattelse af farver påvirkes af forskellige individulle faktorer. Hun mener, at der findes meget få farver, som har en universel effekt. "Forholdet mellem reaktion og farve er meget kompliceret og kan være påvirket af alt fra alder og køn til hukommelse og kultur," (videnskab.dk/sporg-videnskaben/hvordan-pavirker-farver-os)</p>
+            <p class="tekst">En forsker ved navn Zena O´ Conner, mener at vores opfattelse af farver påvirkes af forskellige individuelle faktorer. Hun mener, at der findes meget få farver, som har en universel effekt. "Forholdet mellem reaktion og farve er meget kompliceret og kan være påvirket af alt fra alder og køn til hukommelse og kultur," (videnskab.dk/sporg-videnskaben/hvordan-pavirker-farver-os)</p>
         
         </div>  <!--Farvelære slut-->  
             
@@ -112,16 +112,16 @@
             <h2> Primærfarver </h2> 
                
             <p class="tekst"> Primærfarver er de rene farver Rød, Gul og Blå (RGB). 
-            RGB er addidativ det lægger farver til.</p>
+            RGB er addidativ, og lægger farver til.</p>
                
                
             <h2> Sekundærfarver </h2> 
             
-            <p class="tekst"> Sekundærfarver er blandet af to primær farver.</p> 
+            <p class="tekst"> Sekundærfarver er en blanding af to primær farver.</p> 
                
             <h2> Tertiære farver </h2> 
             
-            <p class="tekst"> Tertiære farver er blandet af sekundær og primær farver. Et farvesystem er ikke absolut, da det kan variere afhængigt af mennesket og kulturen.</p>  
+            <p class="tekst"> Tertiære farver er en blanding af en sekundær farve og en primær farver. Et farvesystem er ikke absolut, da det kan variere afhængigt af mennesket og kulturen.</p>  
                
         <div id="farvehjulcontainer"> 
             
@@ -130,7 +130,7 @@
                 <blockquote>Farvehjulet</blockquote>
         </div>      
                
-            <p class="tekst"> Farvehjulet stammer helt tilbage fra 1600-tallet. Det var Issac Newton som første gang demonstrede, hvordan lyset brydes igennem en prisme</p>   
+            <p class="tekst"> Farvehjulet stammer helt tilbage fra 1600-tallet. Det var Issac Newton som første gang demonstrerede, hvordan lyset brydes igennem en prisme.</p>   
                
             <p class="tekst">Han nåede til den konklusion at farverne gul, rød og blå var primær farver, da disse farver ikke kunne skabes ved at blande andre farver. De blev placeret i den inderste trekant i centrum af farvehjulet. </p>
                
@@ -151,7 +151,7 @@
             
             <h2>CMYK</h2>
             
-            <p class="tekst"> Den er substraktiv – DVS. den trækker farver ud af RGB. Hvis du blander de tre primærfarver i cmyk får man farven sort. 
+            <p class="tekst"> Den er substraktiv – Dvs. den trækker farver ud af RGB. Hvis du blander de tre primærfarver i cmyk får man farven sort. 
             Den er beregnet til tryk.</p>
             
              
@@ -188,7 +188,7 @@
             
             <p class="tekst"> Lyshed: En kulør blandes med ren sort eller hvid.</p>
             
-            <p class="tekst"> Vi har bl.a. brugt color-pickeren til at bestemme den rigtige Hex-kode. Man kan også justere på både hue, saturation, brightness indtil man finder den farve, man søger efter.</p>
+            <p class="tekst"> Vi har bl.a. brugt color-pickeren til at bestemme den rigtige Hex-kode. Man kan også justere på både hue, saturation og brightness indtil man finder den farve, man søger efter.</p>
             
          <div id="farvepalettecontainer"> 
             
@@ -204,17 +204,17 @@
         <div id="farvesammen"> <!--Farvesammensætning start-->
             <h2>Farvesammensætning</h2> 
             
-            <p class="tekst"> -	Monokrom er en kulør som justeres ifh. til lyshed og mætning.</p>
+            <p class="tekst"> -	Monokrom er en kulør som justeres ifh. til lyshed og mætning. (Bogner, 2018, s.12, farvelaere.pdf)</p>
             
-            <p class="tekst"> -	Analoge sammensætninger: En kulør indenfor et bredere spektrum af lyshed og mætning.</p>
+            <p class="tekst"> -	Analoge sammensætninger: En kulør indenfor et bredere spektrum af lyshed og mætning. (Bogner, 2018, s.12, farvelaere.pdf)</p>
             
-            <p class="tekst"> -	Komplementær: Farver der ligger direkte overfor hinanden i farvecirklen.</p>
+            <p class="tekst"> -	Komplementær: Farver der ligger direkte overfor hinanden i farvecirklen. (Bogner, 2018, s.12, farvelaere.pdf)</p>
             
-             <p class="tekst"> - Split komplementær: Farver der ligger direkte overfor hinanden, med et lidt bredere farvespektrum.</p>
+             <p class="tekst"> - Split komplementær: Farver der ligger direkte overfor hinanden, med et lidt bredere farvespektrum. (Bogner, 2018, s.12, farvelaere.pdf)</p>
             
-             <p class="tekst"> - Triader: Tre farver som ligger lige langt fra hinanden. (ligner et peace tegn).</p>
+             <p class="tekst"> - Triader: Tre farver som ligger lige langt fra hinanden.(Bogner, 2018, s.12, farvelaere.pdf) (ligner et peace tegn).</p>
             
-             <p class="tekst"> - Tetriader: dobbelt komplementære – Fire farver som er komplementære.</p>
+             <p class="tekst"> - Tetriader: dobbelt komplementære – Fire farver som er komplementære. (Bogner, 2018, s.12, farvelaere.pdf)</p>
             
         <div id="farvesamcontainer"> 
             
