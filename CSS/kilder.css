@@ -18,13 +18,11 @@
 }
 
 #kilder{
-    /* Denne id er både barn og forælder. Først er den barn af den overordnede container pagewrap*/
+    background-color: #fafafa;
     border-width: 1px;
     border-color: black;
     border-style: solid;
     grid-area: kilder;
-    
-    /*Herfra er den forælder til webtekst og webbillede*/   
 }
 
 
