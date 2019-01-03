@@ -50,7 +50,7 @@
         <a href="design.php"><div id="design"> <!--design box start-->
             <div id="designtekst">
                 <h2> Design</h2>
-                <p> Vi arbejdet med Gestaltlove, Illustrator, Vectorgrafik, Photoshop, layermasks osv. </p>
+                <p> Vi arbejdede med Gestaltlove, Illustrator, Vectorgrafik, Photoshop, layermasks osv. </p>
             </div>
                 <div id="designbillede">
                     <img id="designbillede" class="allebilleder" src="Billeder/design400px.jpg">
@@ -70,7 +70,7 @@
         <a href="designthinking.php"><div id="designthinking"> <!--desing thinking box start-->
             <div id="dttekst">   
                 <h2> Design Thinking</h2>
-                <p> SmartPark var et projekt vi udviklede i forbindelse med Design Thinking projektet.</p>
+                <p> SmartPark var et projekt vi udviklede i forbindelse med Design Thinking.</p>
             </div>
                 <div id="dtbillede">
                     <img id="dtbillede" class="allebilleder" src="Billeder/designthinking400px.jpg">
@@ -80,7 +80,7 @@
         <a href="refleksion.php"><div id="refleksion"> <!--refleksion box start-->
             <div id="refleksiontekst">
                 <h2> Refleksion</h2>
-                <p> Vil du vide mere om mine tanker og overvejelser omkring 1. semeter og Portfolio</p>
+                <p> Vil du vide mere om mine tanker og overvejelser omkring 1. semester og læse min Portfolio</p>
             </div>
                 <div id="refleksionbillede">
                     <img id="refleksionbillede" class="allebilleder" src="Billeder/refleksion400px.jpg">
