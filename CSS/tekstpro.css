@@ -27,8 +27,7 @@
     border-color: black;
     border-style: solid;
     grid-area: produktion;
-    
-    /*Herfra er den forælder til webtekst og webbillede*/   
+ 
 }
 
 
@@ -39,6 +38,22 @@
     border-style: solid;    
     grid-area: nyhedstrekanten;
 }
+
+#closetextcontainer{ 
+    width: 100;
+    padding-bottom: 1em;
+}
+
+#closetext{
+    max-width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.8px;
+    margin-left: -0.8px;
+    margin-right: -0.8px;
+}
+
+
 
 #nyhedskriterier{
     background-color: #fafafa;
