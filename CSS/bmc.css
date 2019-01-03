@@ -8,7 +8,7 @@
         "forretning"
         "value"
         "canvas"
-        "arketyper"
+        "vp"
         "tomfelt17"
     
         
@@ -90,12 +90,12 @@
     margin-right: -0.8px;
 }
 
-#arketyper{
+#vp{
     background-color: #fafafa;
     border-width: 1px;
     border-color: black;
     border-style: solid;  
-    grid-area: arketyper;
+    grid-area: vp;
 }
 
 
@@ -110,7 +110,7 @@
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 
         "forretning value"
-        "canvas arketyper"
+        "canvas vp"
         "tomfelt17 ."
         
 }   
@@ -127,7 +127,7 @@
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 
         "forretning value"
-        "canvas arketyper"
+        "canvas vp"
         "tomfelt17 ."
 }
 
