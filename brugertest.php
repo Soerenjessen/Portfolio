@@ -17,14 +17,14 @@
         <div id="videnskabsteori"> <!--Videnskabsteori start-->
             <h1> Videnskabsteori</h1> 
             
-            <p class="tekst"> Videnskabsteori handler om hvad videnskab egentlig er, og hvordan vi forholder os til viden, og producerer viden. Vi bruger den videnskabelige metode, som et værktøj til at undersøge ting.  
-            Vi bruger den til at tilsidesætte vores egne antagelser, og fokuserer på hvad der er sandhed i forhold til et givent problem. </p> 
+            <p class="tekst"> Videnskabsteori handler om, hvad videnskab egentlig er, og hvordan vi forholder os til viden, og producerer viden. Vi bruger den videnskabelige metode, som et værktøj til at undersøge ting.  
+            Vi bruger den til at tilsidesætte vores egne antagelser, og fokuserer på, hvad der er sandhed i forhold til et givent problem. </p> 
             
             <p class="tekst"> Der kan være mange forskellige antagelser om sandhed. Er der en sand virkelighed, eller er alle sandheder relative. Det kommer an på, hvordan vi perciperer virkeligheden. 
             Som Søren Kirkegaard skrev ”Livet er ikke et problem der skal løses, men en virkelighed der skal opleves” – Vi kan altså opleve virkeligheden på mange forskellige måder, den påvirkes af vores kultur, opdrag og generelle eksistentielle værdier. 
-            Det er vigtigt, at vi forstår hvordan mennesker kan opfatte verdenen og sandheder forskelligt, og den ene sandhed er ikke nødvendigvis mere rigtig end den anden.</p> 
+            Det er vigtigt, at vi forstår, hvordan mennesker kan opfatte verdenen og sandheder forskelligt, og den ene sandhed er ikke nødvendigvis mere rigtig end den anden.</p> 
               
-            <p class="tekst">Det eksempel vi beskæftigede os med på klassen, var den blå/sorte kjole. Teknisk set er kjolen Sort/Blå, men en del i klassen opfattede kjolen som Guld/Sort. Hvad er så rigtigt og forkert? Rent videnskabeligt er kjolen blå og sort, men vi kan ikke benægte at andre opfatter den som guld og hvid. 
+            <p class="tekst">Det eksempel vi beskæftigede os med på klassen, var den blå/sorte kjole. Teknisk set er kjolen Sort/Blå, men en del i klassen opfattede kjolen som Guld/Hvid. Hvad er så rigtigt og forkert? Rent videnskabeligt er kjolen blå og sort, men vi kan ikke benægte at andre opfatter den som guld og hvid. 
             </p> 
             
             <div id="kjolecontainer">
@@ -41,7 +41,7 @@
         <div id="positivisme"> <!--Positivisme start-->
             <h2> Positivisme </h2> 
             
-            <p class="tekst"> Positivisme er en videnskabsmetode som udspringer fra naturvidenskaben. Man arbejder ud fra, at der kun er en virkelighed. Her har man fokus på ting, som kan måles og vejes. 
+            <p class="tekst"> Positivisme er en videnskabsmetode, som udspringer fra naturvidenskaben. Man arbejder ud fra, at der kun er en virkelighed. Her har man fokus på ting, som kan måles og vejes. 
             Derfor er begreber som følelser, religion, etik, moral, kunst, kultur osv. ikke positivisme, da vi ikke kan måle det.(https://www.religion.dk/leksikon/positivisme)</p> 
             
             <p class="tekst"> Et eksempel på positivisme er ”Jorden er rund” – Vi kan måle og veje den.</p> 
@@ -73,11 +73,10 @@
             <h2> Metodiske Overvejelser </h2> 
             
             <p class="tekst"> Metodiske overvejelser handler om, hvordan udvikler man et undersøgelsesdesign, som bedst muligt besvarer mine spørgsmål (Daugaard, 2018, S.18, MMD brugertest 10102018) 
-            Det kan man gøre ved at starte med at definere, hvad vil man undersøge? Hvilke spørgsmål kan være relevante at få svar på, og hvad skal undersøgelsens svar bruges til. Det er vigtigt at indsamle valid og brugbar viden, for at sikre en god undersøgelse
+            Det kan man gøre ved at starte med at definere, hvad vil man undersøge? Hvilke spørgsmål kan være relevante at få svar på, og hvad skal undersøgelsens svar bruges til. Det er vigtigt at indsamle valid og brugbar viden, for at sikre en god undersøgelse.
             </p> 
             
-            <p class="tekst"> Til dette kan bruges sekundære og primære datakilder. Her beskæftiger vi os med de forskellige researchparadigmer.  
-            kvalitative og kvantitative metode.</p>
+            <p class="tekst"> Til dette kan bruges sekundære og primære datakilder. Her beskæftiger vi os med de forskellige researchparadigmer.</p>
             
         </div>  <!--Metodiske overvejelser slut-->    
             
@@ -108,7 +107,7 @@
         <div id="btest"> <!--Brugertest start-->
             <h2> Brugertest </h2> 
             
-            <p class="tekst"> Hele ideen med at foretage brugertest er, at inddrage brugerne tidligt i processen. Som multimediedesigner handler det om at inddrage brugerne, som en aktiv medudvikler på digitale løsninger. I sidste ende er brugerinddragelse er med til at højne kvaliteten på slutløsningen, da brugerne er med til at validere løsningerne i forhold til kommunikation, navigation, brugervenlighed osv.</p> 
+            <p class="tekst"> Hele ideen med at foretage brugertest er, at inddrage brugerne tidligt i processen. Som multimediedesigner handler det om at inddrage brugerne, som en aktiv medudvikler på digitale løsninger. I sidste ende er brugerinddragelse med til at højne kvaliteten på slutløsningen, da brugerne er med til at validere løsningerne i forhold til kommunikation, navigation, brugervenlighed osv.</p> 
             
             <p class="tekst"> Det er vigtigt at huske, at en test ikke skal bevise noget, den skal blot informere. Når man foretager brugertest omkring brugervenlighed (usability), er det ikke et engangsshow. Det er en iterativ proces, dvs. at det er noget man er nødt til at undersøge løbende.</p> 
                           
