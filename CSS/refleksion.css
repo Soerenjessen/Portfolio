@@ -1,0 +1,108 @@
+#pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "refleksion2"
+        "portfolio"
+        "designdelen"
+        "kodedelen"
+        "sg"
+        "tomfelt38"
+        
+        
+        
+}
+
+#felt38{
+    grid-area: tomfelt38;
+    height: 33px;
+}
+
+#refleksion2{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: refleksion2;
+}
+
+#portfolio{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: portfolio;
+}
+
+
+#designdelen{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: designdelen;
+}
+
+#kodedelen{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: kodedelen;
+}
+
+#sg{
+    background-color: #fafafa;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-area: sg;
+}
+
+
+
+@media screen and (min-width: 768px){
+    
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "refleksion2 ."
+        "portfolio ."
+        "designdelen ."
+        "kodedelen ."
+        "sg ."
+        "tomfelt38 ."
+        
+        
+}   
+    
+}
+ 
+@media screen and (min-width: 1190px) {
+    #pagewrap {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "refleksion2 ."
+        "portfolio ."
+        "designdelen ."
+        "kodedelen ."
+        "sg ."
+        "tomfelt38 ."
+        
+}
+
+}
+
