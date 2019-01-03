@@ -19,9 +19,9 @@
             
             <p class="tekst"> I planlægning og overordnet design har vi arbejdet med, hvordan man kan bruge forskellige teknikker og processor til at opnå et bedre resultat i forhold til et webudviklingsprojekt. </p> 
             
-            <p class="tekst"> I den forbindelse holdte vi et fiktivt kundemøde med Niels, som i dagens anledning var blevet ejer af ismejeriet, Det Bette Ismejeri. Her skulle vi aktivt bruge de metoder og værktøjer, som vi havde læst om til den dag.</p> 
+            <p class="tekst"> I den forbindelse holdte vi et fiktivt kundemøde med Niels, som i dagens anledning var blevet ejer af ismejeriet, Det Bette Ismejeri. Her skulle vi aktivt bruge de metoder og værktøjer, som vi havde læst om.</p> 
                 
-            <p class="tekst">Vi brugte bl.a. Goals and Objectives diskussion til at skabe et overblik over, hvilke tanker og ideer, Niels havde gjort sig omkring hjemmesiden til Det Bette Ismejeri. Vi spurgte ind til, hvad målet var med hjemmesiden, og hvilket formål den skulle tjene. Derudover bad vi ham om at fortælle omkring sig selv, og Det Bette Ismejeri, for at blive klogere på hele projektet. Grundlæggende set fandt vi ud af, at han gerne ville have en hjemmeside, da han ikke havde nogen i forvejen. Tilmed gav han også udtryk for, at han ikke var vild med logoet</p>  
+            <p class="tekst">Vi brugte bl.a. Goals and Objectives diskussion til at skabe et overblik over, hvilke tanker og ideer, Niels havde gjort sig omkring hjemmesiden til Det Bette Ismejeri. Vi spurgte ind til, hvad målet var med hjemmesiden, og hvilket formål den skulle tjene. Derudover bad vi ham om at fortælle omkring sig selv, og Det Bette Ismejeri, for at blive klogere på hele projektet. Grundlæggende set fandt vi ud af, at han gerne ville have en hjemmeside, da han ikke havde nogen i forvejen. Tilmed gav han også udtryk for, at han ikke var vild med logoet.</p>  
             
             <p class="tekst"> Det var vigtigt for os at få stillet de rigtige spørgsmål til Mejeristen Niels, da han havde utrolig svært at beskrive, hvor han gerne ville hen med sin hjemmeside. Efter denne samtale, hvor vi løbende havde skrevet notater, var vi blevet en del klogere på, hvad der var vigtigt for ham.</p> 
                     
@@ -31,7 +31,7 @@
         <div id="brainstorm"> <!--Brainstorm start-->
             <h1> Brainstorm </h1> 
             
-            <p class="tekst"> Ud fra den samtale vi havde med Niels, gik vi i gang med en brainstormproces, hvor vi begyndte at arbejde divergent med ideer. Her handlede det om at komme op med alle de ideer vi havde, der skulle også være plads til de vilde ideer</p>
+            <p class="tekst"> Ud fra den samtale vi havde med Niels, gik vi i gang med en brainstormproces, hvor vi begyndte at arbejde divergent med ideer. Her handlede det om at komme op med alle de vilde ideer vi havde.</p>
             
             <p class="tekst"> Herefter begyndte vi arbejde mere konvergent med vores ideer, altså sortere de ideer fra, som ikke var gode nok. </p>
             
@@ -67,7 +67,7 @@
             
             <p class="tekst"> Herfra begyndte vi at udarbejde en feature / unfeature liste, som skulle hjælpe med at afgøre, hvad siden skulle indeholde og hvad den ikke skulle indeholde. Bagefter blev vi mere bevidste om, hvad der var vigtigt at siden skulle fokusere på, og hvilke problemer den skulle løse. </p> 
             
-           <p class="tekst"> På baggrund af de erfaringer vi havde gjort os med brainstorm, user stories (personas) og feature/unfeature liste, var det nemmere for os at arbejde mere målrettet mod en løsning, der afspejlede de forventninger, Mejeri Niels, havde til sin hjemmeside. Vi lærte, at det både er tidsbesparende og økonomisk besparende, at gøre sig den umage. I løbet af sådan en udviklingsproces, kan der opstå mange uenigheder og forvirringer, derfor er det vigtigt at forventningsafstemme fra starten, så man er enig om, hvad der skal ske i løbet af processen. Jo længere man kommer i processen, jo dyrere bliver det at skifte kurs. Netop af den grund, er den en stor fordel at få gjort sig disse tanker og processer, inden man begynder at designe og udvikle en hjemmeside. </p> 
+           <p class="tekst"> På baggrund af de erfaringer vi havde gjort os med brainstorm, user stories (personas) og feature/unfeature liste, var det nemmere for os at arbejde mere målrettet mod en løsning, der afspejlede de forventninger, Mejeri Niels, havde til sin hjemmeside. Vi lærte, at det både er tidsbesparende og økonomisk besparende, at gøre sig den umage. I løbet af sådan en udviklingsproces, kan der opstå mange uenigheder og forvirringer, derfor er det vigtigt at forventningsafstemme fra starten, så man er enig om, hvad der skal ske i løbet af processen. Jo længere man kommer i processen, jo dyrere bliver det at skifte kurs. Netop af den grund, er det en stor fordel at få gjort sig disse tanker og processer, inden man begynder at designe og udvikle en hjemmeside. </p> 
             
         </div>  <!--Feature unfeature list slut-->  
             
